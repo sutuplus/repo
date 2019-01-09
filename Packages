@@ -1,0 +1,16 @@
+Package: sutuplus
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: debs/sutuplus_2.1.7-b1.deb
+Size: 77848
+MD5sum: e491846a0f5844efc05f8547297eaad3
+SHA1: 83a648f4bc7b7f5dbdbbbcb75adfef3f8c5fee84
+SHA256: 70a08b914f47e9d6354d0c681b79d74359ea3d80d80b853fe48f1a91945c788d
+Section: Tweaks
+Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
+Author: Carby
+Name: SutuPLUS-苏兔PLUS WX美化增强工具
+
