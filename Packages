@@ -5,10 +5,10 @@ Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus_2.1.6_iphoneos-arm.deb
-Size: 69570
-MD5sum: 89b6654bba634cfa1129e8baceab3f9c
-SHA1: c62c4623e9134b130d0efa775b7b9f5bfd866d7c
-SHA256: 96a35b13ffaa3598e2fe9a4d58a0e09af662e0d4a8746ebde91622c5fc203eb9
+Size: 69590
+MD5sum: 300392a026cb3aec67aee162712a9f8d
+SHA1: ccbabc0e8500aabd77183f7884c38a7acc31be02
+SHA256: 5a1a670e6e8ff2aca149b14535e007e94c90e3df4e536b311c9d38e8b76b4e09
 Section: Tweaks
 Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
