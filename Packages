@@ -1,16 +1,16 @@
-Package: io.github.sutuplus
-Version: 2.1.8-1
+Package: sutuplus
+Version: 2.1.9-3
 Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 352
+Maintainer: Karo
+Installed-Size: 384
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.1.8-1_iphoneos-arm.deb
-Size: 75562
-MD5sum: 4c967f03bb787e24975262105241dfee
-SHA1: 0556a756972e9b21a30239cc9035b7fe733050f3
-SHA256: 0141b7fbcb20649080a1b8ae56b817eb38a0d0af3b7d604a4cf509ae2cf7e97e
+Filename: debs/sutuplus_2.1.9-3_iphoneos-arm.deb
+Size: 75962
+MD5sum: 9baae50a50d0ea57527ec2a9aaab8217
+SHA1: cfd3c3fbb4feda0d2995b2fd7baa1f63cfce145e
+SHA256: fed37bdd31ca3a6056874b7da2511dc296dd4d6617cc83d133439b824b241428
 Section: Tweaks
 Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
-Author: Carby(公众号:苏兔)
-Name: SutuPLUS-苏兔PLUS WX美化增强工具
+Author: Karo
+Name: sutuplus
 
