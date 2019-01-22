@@ -15,18 +15,18 @@ Author: Carby(公众号:苏兔)
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 
 Package: io.github.sutuplus.2018Theme
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.2018theme_1.0_iphoneos-arm.deb
-Size: 37529690
-MD5sum: 13bed89b16559e31ccda2e1d03ceb2bc
-SHA1: 2ac0994945f9522c2de8238c4d0d6809d8cb2582
-SHA256: 78eeea40afe7cbaf7108fc59ce8ca00d354ac7f56666af382699236a2e902e8f
+Filename: debs/io.github.sutuplus.2018Theme.deb
+Size: 37530360
+MD5sum: 12cb514bf4603a1d24c7373d1bb88a28
+SHA1: 02c4b32abe23841516cfa38610f923b314829c6a
+SHA256: dbb7f5d9846254291c5e0c449b7a9626e91f410b47af8246707f77e47a2ac741
 Section: WeChatTheme
-Description: 共18个主题，两套气泡美化。本主题请配合插件“苏兔PLUS”使用，安装后在插件内应用 <br>卸载本主题合集，会连带删除CarbyTheme文件夹里的所有内容（含文件夹），请谨慎操作。
+Description: 共18个主题，2套气泡美化。本合集请配合插件“苏兔PLUS”使用，安装后在插件内应用 <br><br>Tips：卸载本主题合集，会连带删除CarbyTheme文件夹里的所有内容（含插件下载前自行添加的主题），请谨慎操作。
 Author: 公众号:苏兔(bysutu)
-Name: 2018PLUS插件主题合集
+Name: 2018年PLUS插件主题合集
 
