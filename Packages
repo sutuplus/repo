@@ -14,19 +14,51 @@ Description: 一款微信美化工具，关注我的公众号”苏兔“获取�
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 
-Package: io.github.sutuplus.2018Theme
-Version: 1.1
+Package: io.github.sutuplus.GradationVx67
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.2018Theme.deb
-Size: 37530360
-MD5sum: 12cb514bf4603a1d24c7373d1bb88a28
-SHA1: 02c4b32abe23841516cfa38610f923b314829c6a
-SHA256: dbb7f5d9846254291c5e0c449b7a9626e91f410b47af8246707f77e47a2ac741
-Section: WeChatTheme
-Description: 共18个主题，2套气泡美化。本合集请配合插件“苏兔PLUS”使用，安装后在插件内应用 <br><br>Tips：卸载本主题合集，会连带删除CarbyTheme文件夹里的所有内容（含插件下载前自行添加的主题），请谨慎操作。
+Filename: debs/io.github.sutuplus.GradationVx67.deb
+Size: 773492
+MD5sum: ea48201ddd2d96fd4f83de4426c028a5
+SHA1: 20373eca23772d19e374cd0328a2a0069aa94a1c
+SHA256: e4232dca4be188cd9a6a7ea3721bd6dc16cf738ec263404bf06ea3086738e83b
+Section: WechatTheme
+Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
-Name: 2018年PLUS插件主题合集
+Name: GradationVx67-苏兔PLUS版
+
+Package: io.github.sutuplus.TalksVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.TalksVx67.deb
+Size: 954152
+MD5sum: 7f8549bff407651ccd05fd41827be75c
+SHA1: 8e04acc7625be036a789421c67dfa37c3a238b37
+SHA256: 9817f075cdb92ec15b0d89d5dc7afd2c78d9cb1afd33497ea77e559cdaaf6141
+Section: WechatTheme
+Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Name: TalksVx67-苏兔PLUS版
+
+Package: io.github.sutuplus.vxTheme2018
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.vxTheme2018.deb
+Size: 37812544
+MD5sum: 69cfdad5224a950de13b324b2921ec1a
+SHA1: d99f46a48fca291cbff0ac718712b40ec8eeef11
+SHA256: 78e6c55cd84ccb63ddba1a81927d6f2403c43dc0143f5e3f6b1fd1a3b9d8a09c
+Section: WechatTheme
+Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Name: 2018苏兔PLUS微信主题大礼包
 
