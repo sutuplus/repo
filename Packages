@@ -46,6 +46,23 @@ Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装�
 Author: 公众号:苏兔(bysutu)
 Name: TalksVx67-苏兔PLUS版
 
+Package: io.github.sutuplus.fake7OnlyVx6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 蒽崽甜啦噜丿
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.fake7onlyvx6.deb
+Size: 307388
+MD5sum: 5654f7a5f1cd693d36d9c8de6a08acdb
+SHA1: 80a4adca31ac4968e54c9f9e8cb0c04b8248681b
+SHA256: 00cb4372a2bec683e09456c87b18fdba3136a92b183c7c5dfd95d542f46f2a8b
+Section: WechatTheme
+Description: 高仿微信7.x版本风格，主题兼容只兼容微信6.x版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/fake7OnlyVx6.png
+Name: 假装在用微信7.0 苏兔PLUS微信主题
+
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
 Architecture: iphoneos-arm
