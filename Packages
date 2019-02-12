@@ -30,6 +30,23 @@ Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装�
 Author: 公众号:苏兔(bysutu)
 Name: GradationVx67-苏兔PLUS版
 
+Package: io.github.sutuplus.MyCatVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.MyCatVx67.deb
+Size: 2863036
+MD5sum: e4bece27c4839d2e066ba4ea75e73b7f
+SHA1: 633f067498eb14037368ac21dd729f6c6f1ad687
+SHA256: a8d4f65624c064dd71c5094fbadc57b5328e5808a7daf5fd358db85e6daae73b
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/MyCatVx67.png
+Name: [优化版]做我的猫-苏兔PLUS主题
+
 Package: io.github.sutuplus.TalksVx67
 Version: 1.0
 Architecture: iphoneos-arm
