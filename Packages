@@ -1,18 +1,18 @@
 Package: io.github.sutuplus
-Version: 2.2.0
+Version: 2.2.2
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.2.0_iphoneos-arm.deb
-Size: 115264
-MD5sum: abbdca9af3da5ec593ac02ed7dd75f4c
-SHA1: 3bdd1ff04c9fc78bd499acdf155535407e807e85
-SHA256: 20e8709be177a131e6a145f0c466d021300f573432e730a49c1d925e77dc3b41
+Filename: debs/io.github.sutuplus_2.2.2_iphoneos-arm.deb
+Size: 81192
+MD5sum: 4150d64d30aee5e501d1ed6a2817da68
+SHA1: f2b9e1e726a2f6b430c147f5fb8f86203731e2b0
+SHA256: 8f0210d6716f499b0457634ddbef21e678bb40b07de2bdf7d28a9594ec6832c7
 Section: Tweaks
 Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
-Name: SutuPLUS-苏兔PLUS WX美化增强工具
+Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 
 Package: io.github.sutuplus.GradationVx67
 Version: 1.0
@@ -79,6 +79,22 @@ Description: 高仿微信7.x版本风格，主题兼容只兼容微信6.x版本�
 Author: 公众号:苏兔(bysutu)
 Icon: file:///var/mobile/Documents/bysutu/weChatIcon/fake7OnlyVx6.png
 Name: 假装在用微信7.0 苏兔PLUS微信主题
+
+Package: io.github.sutuplus.release
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.release_2.2.2_iphoneos-arm.deb
+Size: 81198
+MD5sum: 48f93fa721c96adbea8ba3380416888a
+SHA1: 5b86c5afe6049a7ac2c580a389540e1b337056f6
+SHA256: 0c1c8bb2fea5353390b5180856a2aab01e438d4e5c87c2265f42243fb73dc3d3
+Section: Tweaks
+Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
+Author: Carby(公众号:苏兔)
+Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
