@@ -14,6 +14,23 @@ Description: 一款微信美化工具，关注我的公众号”苏兔“获取�
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 
+Package: io.github.sutuplus.CuteTeaTimePVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.CuteTeaTimePVx67.deb
+Size: 3867424
+MD5sum: eccec355a556e40ce32c6b1d22c12bfc
+SHA1: a44be0b742e9c7f32b1ccd059efce504c1fb1deb
+SHA256: e9ee5b3c0277b4510da2514f5b4b9c79dbce47445f7a3c849bfd3a49cf050165
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/CuteTeaTimePVx67.png
+Name: TeaTime莎莎-苏兔PLUS主题
+
 Package: io.github.sutuplus.GradationVx67
 Version: 1.0
 Architecture: iphoneos-arm
