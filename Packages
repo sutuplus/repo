@@ -129,3 +129,19 @@ Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装�
 Author: 公众号:苏兔(bysutu)
 Name: 2018苏兔PLUS微信主题大礼包
 
+Package: io.github.undecimus.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: debs/io.github.undecimus.cn_1.0_iphoneos-arm.deb
+Size: 21246
+MD5sum: 8390f847c2562588553aac65f4e41110
+SHA1: efabdb25acf12bacfd70ef0f21d74bab68a02e17
+SHA256: 80e65d0bdf6ca613168ea40e83172a533e8547773f26b8cc95f69c2d74136cc6
+Section: Tweaks
+Description: 这是一个汉化包
+Author: Carby(公众号:苏兔)
+Name: undecimus工具b29-b34汉化包
+
