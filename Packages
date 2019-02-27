@@ -20,11 +20,11 @@ Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.CuteTeaTimePVx67.deb
-Size: 3867424
-MD5sum: eccec355a556e40ce32c6b1d22c12bfc
-SHA1: a44be0b742e9c7f32b1ccd059efce504c1fb1deb
-SHA256: e9ee5b3c0277b4510da2514f5b4b9c79dbce47445f7a3c849bfd3a49cf050165
+Filename: debs/io.github.sutuplus.cuteteatimepvx67_1.0_iphoneos-arm.deb
+Size: 3867306
+MD5sum: 134913c4ff9fbe78743f7c7716800b42
+SHA1: b1e0872fabe7cfee11baf244e7f07b95e812f252
+SHA256: 990d73618d97eeccc26a47e2fa81eff42b073373409ec4ad35f48d40cc5a8605
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
@@ -37,11 +37,11 @@ Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.GradationVx67.deb
-Size: 773492
-MD5sum: ea48201ddd2d96fd4f83de4426c028a5
-SHA1: 20373eca23772d19e374cd0328a2a0069aa94a1c
-SHA256: e4232dca4be188cd9a6a7ea3721bd6dc16cf738ec263404bf06ea3086738e83b
+Filename: debs/io.github.sutuplus.gradationvx67_1.0_iphoneos-arm.deb
+Size: 773582
+MD5sum: 9b9ae09d0d1c7855fdbaab0578013d0e
+SHA1: 5f0f7a54576b0470b48268c6f773b1b592d2a15d
+SHA256: b324fd7f94e024a391a03d7dd798445e6b37323193ccfc6d961c3ce532862a23
 Section: WechatTheme
 Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
@@ -53,11 +53,11 @@ Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.MyCatVx67.deb
-Size: 2855020
-MD5sum: 3b1161922f22bbb7ae0fda51a856474c
-SHA1: 0d66264debe84f4cb394988750b6c277cefdfa10
-SHA256: ff5f51411aa91d7d8995b3f10682ac23dec7155e55e3536ffd5e81ffb75186cd
+Filename: debs/io.github.sutuplus.mycatvx67_2.0_iphoneos-arm.deb
+Size: 2855030
+MD5sum: 8216ece2e7b37ea4e5325f3d9ff0dad7
+SHA1: 7491694ce4722603f79ded7724201b3c82d0ddd8
+SHA256: 8617c2222dae04c65e61c515ae01d9850457878809c37af6193f5ec7ae207005
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
@@ -70,11 +70,11 @@ Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.TalksVx67.deb
-Size: 954152
-MD5sum: 7f8549bff407651ccd05fd41827be75c
-SHA1: 8e04acc7625be036a789421c67dfa37c3a238b37
-SHA256: 9817f075cdb92ec15b0d89d5dc7afd2c78d9cb1afd33497ea77e559cdaaf6141
+Filename: debs/io.github.sutuplus.talksvx67_1.0_iphoneos-arm.deb
+Size: 954314
+MD5sum: c8a56d0dfbee9c02ed125ccc1152abec
+SHA1: 0653bb60f76e8409aace480292c1f8b2ad46d00d
+SHA256: f103a514779b15edffe28d333ed4aedb1c6597a86cc02c7ac737947c6532cf47
 Section: WechatTheme
 Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
@@ -86,11 +86,11 @@ Architecture: iphoneos-arm
 Maintainer: 蒽崽甜啦噜丿
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.fake7onlyvx6.deb
-Size: 307388
-MD5sum: 5654f7a5f1cd693d36d9c8de6a08acdb
-SHA1: 80a4adca31ac4968e54c9f9e8cb0c04b8248681b
-SHA256: 00cb4372a2bec683e09456c87b18fdba3136a92b183c7c5dfd95d542f46f2a8b
+Filename: debs/io.github.sutuplus.fake7onlyvx6_1.0_iphoneos-arm.deb
+Size: 307454
+MD5sum: 0e800654a64a268a6c0d92f05b93c7f1
+SHA1: 229c2dd61cb3503d6406fe1206f67ff309c91c51
+SHA256: 7266792b3d8382c8706b9f0baf6ed1b1e198798f706d83dd4ad18e291fc49928
 Section: WechatTheme
 Description: 高仿微信7.x版本风格，主题兼容只兼容微信6.x版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
@@ -119,11 +119,11 @@ Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.vxTheme2018.deb
-Size: 37812544
-MD5sum: 69cfdad5224a950de13b324b2921ec1a
-SHA1: d99f46a48fca291cbff0ac718712b40ec8eeef11
-SHA256: 78e6c55cd84ccb63ddba1a81927d6f2403c43dc0143f5e3f6b1fd1a3b9d8a09c
+Filename: debs/io.github.sutuplus.vxtheme2018_1.0_iphoneos-arm.deb
+Size: 37812256
+MD5sum: e47b7987b52609f5eb7800373ed79c62
+SHA1: 7ae9926b239db11418321f473eca42c0048b608f
+SHA256: bd7b6a5bf718c4ef0b3972ab48f58650ef8f0741ec78e4cb7266dabf685542da
 Section: WechatTheme
 Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
