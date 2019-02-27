@@ -15,21 +15,21 @@ Author: Carby(公众号:苏兔)
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 
 Package: io.github.sutuplus.CuteTeaTimePVx67
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.cuteteatimepvx67_1.0_iphoneos-arm.deb
-Size: 3867306
-MD5sum: 134913c4ff9fbe78743f7c7716800b42
-SHA1: b1e0872fabe7cfee11baf244e7f07b95e812f252
-SHA256: 990d73618d97eeccc26a47e2fa81eff42b073373409ec4ad35f48d40cc5a8605
+Size: 3866988
+MD5sum: 2429a74b6584daced932d2f59bf989fd
+SHA1: 0e37ef88c3de7e1aeef7f04469b64a9a8cda143c
+SHA256: 2bc70b2f255dad8bbb64fd4ab2790cdb40adcdac2065b007b06d40c443acdbd6
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/CuteTeaTimePVx67.png
-Name: TeaTime莎莎-苏兔PLUS主题
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/NightModeBylpssVx67.png
+Name: 莎莎的下午茶-苏兔PLUS主题
 
 Package: io.github.sutuplus.GradationVx67
 Version: 1.0
