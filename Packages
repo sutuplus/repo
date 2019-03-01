@@ -80,6 +80,40 @@ Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装�
 Author: 公众号:苏兔(bysutu)
 Name: TalksVx67-苏兔PLUS版
 
+Package: io.github.sutuplus.TiltBlueVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.tiltbluevx67.deb
+Size: 2077444
+MD5sum: 3c13f6c71ed03ca719a6ad118f11d620
+SHA1: 442719e6ff8ca8c23ce13813eacf269925a9667f
+SHA256: 0910df9825121cf04480c3ec46f7e5f36906e9a320f98f83a403574b74badf84
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/TiltBlueVx67.png
+Name: Tilt蓝色版-苏兔PLUS主题
+
+Package: io.github.sutuplus.TiltYellowVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.tiltyellowvx67.deb
+Size: 2076320
+MD5sum: 9fd992bb7532a3238cf4fc9dcb4b111c
+SHA1: 265031fc694a0ed15f216208b580a963c975ef91
+SHA256: bf3c175990688d1a0462090d75478834f5cbf2d02a8b4dc064616c9ee01ad51c
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/TiltYellowVx67.png
+Name: Tilt黄色版-苏兔PLUS主题
+
 Package: io.github.sutuplus.fake7OnlyVx6
 Version: 1.0
 Architecture: iphoneos-arm
@@ -112,6 +146,23 @@ Section: Tweaks
 Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
+
+Package: io.github.sutuplus.testpostinst
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 123
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.testpostinst_1.0_iphoneos-arm.deb
+Size: 1078
+MD5sum: bc9330f4b265a0ed77491ed65cb54805
+SHA1: 683f28ff3181a579d613c6e18c58ad857141ff85
+SHA256: b30d4ac80027eeb342e8c1ec0bc7eccf0aad09004a13da3fd408669e1ed9785b
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 123
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/NightModeBylpssVx67.png
+Name: testpostinst
 
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
