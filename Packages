@@ -147,23 +147,6 @@ Description: 一款微信美化工具，关注我的公众号”苏兔“获取�
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
-Package: io.github.sutuplus.testpostinst
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 123
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.testpostinst_1.0_iphoneos-arm.deb
-Size: 1094
-MD5sum: 10409c495d778387836e6622e8a07459
-SHA1: 7ee9f5e9a3dce9d24d394934492827f077ed5b0d
-SHA256: ec6489b5a6331a28b343af69bc2d09d4c0fb5078858fd23916c474ceb32b918f
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 123
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/NightModeBylpssVx67.png
-Name: testpostinst
-
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
 Architecture: iphoneos-arm
