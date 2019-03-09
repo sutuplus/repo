@@ -5,10 +5,10 @@ Maintainer: Carby
 Installed-Size: 10
 Depends: mobilesubstrate
 Filename: debs/io.github.fixnetwork_1.0_iphoneos-arm.deb
-Size: 1194
-MD5sum: 732dc007b5c38bd4772863f5d296ef8d
-SHA1: b3a77c6fecfda6722d107830686f309c5cf0b209
-SHA256: 4a37f2be8c20d0a35c6ed203cfa651fb3497ee344972c6dd9db516a0f3a9f3dd
+Size: 1198
+MD5sum: c4ad9085f0a3b676cc9265f3a8500c64
+SHA1: fd8fb59a3e0fd30494c6635f5fcc4836a54a642d
+SHA256: 582acf0c153a259a26e9c4b0f46853c1110fd6218dd42a1572a624811cd13c6d
 Section: Tweaks
 Description: 修复国行设备越狱后程序无网络权限的问题,需重启设备后生效
 Author: Carby(公众号:苏兔)
