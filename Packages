@@ -1,3 +1,19 @@
+Package: io.github.fixnetwork
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 10
+Depends: mobilesubstrate
+Filename: debs/io.github.fixnetwork_1.0_iphoneos-arm.deb
+Size: 1174
+MD5sum: a39a4a0042c6df7c00cba82db65755d5
+SHA1: 34332d04c56e6ad9d40cb21f66580f902c73b72c
+SHA256: e5c333d7c0f3812377b6859de1bda627af09e66f6a2389683cdbfa86dc358b05
+Section: Tweaks
+Description: 修复国行设备越狱后程序无网络权限的问题,需重启设备后生效
+Author: Carby(公众号:苏兔)
+Name: 修复联网补丁
+
 Package: io.github.sutuplus
 Version: 2.2.2
 Architecture: iphoneos-arm
