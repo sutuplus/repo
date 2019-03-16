@@ -47,6 +47,40 @@ Author: 公众号:苏兔(bysutu)
 Icon: file:///var/mobile/Documents/bysutu/weChatIcon/NightModeBylpssVx67.png
 Name: 莎莎的下午茶-苏兔PLUS主题
 
+Package: io.github.sutuplus.GeoTextWeChatBySoda
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Soda
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.GeoTextWeChatBySoda.deb
+Size: 796872
+MD5sum: 0cc8fdde80e7afec2731b0431025e68f
+SHA1: f2049f076d268fa1294b2240f23cb79c956e8334
+SHA256: 3455088734b7b81d75d9bc2e871f7f194afee5856e1a9485f3c5614ad49bd515
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: Sodaso苏打
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/GeoTextWeChatBySoda.png
+Name: Geo有文字版-苏兔PLUS主题
+
+Package: io.github.sutuplus.GeoWeChatBySoda
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Soda
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.GeoWeChatBySoda.deb
+Size: 734456
+MD5sum: 18ddf6e1195cc110c05273b6d703bfcc
+SHA1: 5c4197e8cfd9ecf3806f88587725b7a43a4da126
+SHA256: afe8301468b401ad6c95bf0f73a5b7723a6844cf2a1779ce9152317ea3340480
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: Sodaso苏打
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/GeoTextWeChatBySoda.png
+Name: Geo-苏兔PLUS主题
+
 Package: io.github.sutuplus.GradationVx67
 Version: 1.0
 Architecture: iphoneos-arm
@@ -146,6 +180,23 @@ Description: 高仿微信7.x版本风格，主题兼容只兼容微信6.x版本�
 Author: 公众号:苏兔(bysutu)
 Icon: file:///var/mobile/Documents/bysutu/weChatIcon/fake7OnlyVx6.png
 Name: 假装在用微信7.0 苏兔PLUS微信主题
+
+Package: io.github.sutuplus.lostVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.lostVx67.deb
+Size: 633440
+MD5sum: 9cb62a242ce1baf1c0d927b7d415e615
+SHA1: 483204434452a5d2d180277943daa0d41589f95c
+SHA256: 022cd391a93ae1decb76f5eb5656defd62ae3268af2593c68e63dbf565e27311
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号:苏兔(bysutu)
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/lostVx67.png
+Name: LOST简约-苏兔PLUS主题
 
 Package: io.github.sutuplus.release
 Version: 2.2.2
