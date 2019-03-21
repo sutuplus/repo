@@ -15,18 +15,18 @@ Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
 Package: io.github.sutuplus
-Version: 2.2.2
+Version: 2.3.0
 Architecture: iphoneos-arm
 Maintainer: Carby
-Installed-Size: 352
+Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.2.2_iphoneos-arm.deb
-Size: 81192
-MD5sum: 4150d64d30aee5e501d1ed6a2817da68
-SHA1: f2b9e1e726a2f6b430c147f5fb8f86203731e2b0
-SHA256: 8f0210d6716f499b0457634ddbef21e678bb40b07de2bdf7d28a9594ec6832c7
+Filename: debs/io.github.sutuplus_2.3.0_iphoneos-arm.deb
+Size: 180458
+MD5sum: 463660f80e3f4be3bcbbb84d73a29b02
+SHA1: 0de5e220d1d50dbcfc9b64ce5c4b137ad482cf60
+SHA256: 01f2504e4f2803852cd193ca318b2817b7e07c6f71814ba3fc90da16bf2f2a6d
 Section: Tweaks
-Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 
@@ -199,18 +199,18 @@ Icon: file:///var/mobile/Documents/bysutu/weChatIcon/lostVx67.png
 Name: LOST简约-苏兔PLUS主题
 
 Package: io.github.sutuplus.release
-Version: 2.2.2
+Version: 2.3.0
 Architecture: iphoneos-arm
 Maintainer: Carby
-Installed-Size: 352
+Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.2.2_iphoneos-arm.deb
-Size: 81198
-MD5sum: 48f93fa721c96adbea8ba3380416888a
-SHA1: 5b86c5afe6049a7ac2c580a389540e1b337056f6
-SHA256: 0c1c8bb2fea5353390b5180856a2aab01e438d4e5c87c2265f42243fb73dc3d3
+Filename: debs/io.github.sutuplus.release_2.3.0_iphoneos-arm.deb
+Size: 180456
+MD5sum: 7908707357a53cdb09571d640e282cc0
+SHA1: cd55b449fffba449f1802a4d7aa2bf35e1701b1f
+SHA256: dd40706ef4c10db2de8c874a5c1d5a3d72661710f31bb57de58a72dbae38e196
 Section: Tweaks
-Description: 一款微信美化工具，关注我的公众号”苏兔“获取更多资源。
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
