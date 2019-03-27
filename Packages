@@ -164,6 +164,40 @@ Author: 公众号:苏兔(bysutu)
 Icon: file:///var/mobile/Documents/bysutu/weChatIcon/TiltYellowVx67.png
 Name: Tilt黄色版-苏兔PLUS主题
 
+Package: io.github.sutuplus.dotBlackVx67Carby
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.dotBlackVx67Carby.deb
+Size: 542028
+MD5sum: 5ed1dd448f75edc6dfa9cf9c17b93019
+SHA1: 74703bdbcbc90fde6f53059d280508fc62ce2f61
+SHA256: eaa5061245bbb81db5ffa76ec86cf06f33f2777e181a708a49e309040d57e9ae
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/dotBlackVx67Carby.png
+Name: dot黑色气泡版-微信主题 苏兔PLUS
+
+Package: io.github.sutuplus.dotVx67Carby
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.dotVx67Carby.deb
+Size: 525564
+MD5sum: d3175ffdae0eb70d0ef1842224ee75b3
+SHA1: 050f458f220bbd560fdeb3fda914a3d50054fe87
+SHA256: 6c77f935e9e057728a36566eb1c88cfd56990a3037a5fc98a313b20214e67b64
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: file:///var/mobile/Documents/bysutu/weChatIcon/dotVx67Carby.png
+Name: dot微信主题 苏兔PLUS
+
 Package: io.github.sutuplus.fake7OnlyVx6
 Version: 1.0
 Architecture: iphoneos-arm
