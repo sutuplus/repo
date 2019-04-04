@@ -248,6 +248,22 @@ Description: 一款微信美化工具，请查阅教程后使用，关注我的�
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
+Package: io.github.sutuplus.test
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.test_1.0_iphoneos-arm.deb
+Size: 207278
+MD5sum: d615454b928de9ddaf631151eb7b7773
+SHA1: f7274bbb6e13cdfa67da746ad2274924be7b9cd8
+SHA256: 48bf61e08208b81fa19cf14a3797f53d9e40e1b80dde4ac06fc013cfcca259fe
+Section: Tweaks
+Description: 测试版。
+Author: Carby(公众号:苏兔)
+Name: SutuPLUS测试版(不要随便安装)
+
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
 Architecture: iphoneos-arm
