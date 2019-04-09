@@ -15,16 +15,16 @@ Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
 Package: io.github.sutuplus
-Version: 2.3.1
+Version: 2.5.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.3.1_iphoneos-arm.deb
-Size: 180588
-MD5sum: b3d0954faaa1eb378a2c8f1e25021b7c
-SHA1: d180685533df3f504c09ef0eb9c80ceed59ac586
-SHA256: 1a60b0a2451384afb41ec235b7488b39fdec84e8a9b40e7e0fda858942bcc466
+Filename: debs/io.github.sutuplus_2.5.0_iphoneos-arm.deb
+Size: 207532
+MD5sum: ab96607f90634cf212217cb452f28009
+SHA1: d266237a4cfcf74618082fdab531c8bb700f8392
+SHA256: c06702d97ba9b303a1df3fba81dc194d10fcc70c04801fdeeded2990c89bd471
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
@@ -233,36 +233,20 @@ Icon: file:///var/mobile/Documents/bysutu/weChatIcon/lostVx67.png
 Name: LOST简约-苏兔PLUS主题
 
 Package: io.github.sutuplus.release
-Version: 2.3.1
+Version: 2.5.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.3.1_iphoneos-arm.deb
-Size: 180576
-MD5sum: cef3e08548c638a5942b2d9e7e9d42f8
-SHA1: 5153292fd861af34fd5edb2175bb05264973e683
-SHA256: 3db52f48b7db958bd3d0d2e666a8f2aea77268271b169c72a6e8d16d9be4099e
+Filename: debs/io.github.sutuplus.release_2.5.0_iphoneos-arm.deb
+Size: 207340
+MD5sum: 7a353f256670c41d16f3057e9bbba254
+SHA1: cfc9bec2e57a4df6d8f1e8df5083f50607145f93
+SHA256: b63c00bef919c82a7e81167510f36b911beed8435e85dcb46da70f9d65d220bc
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
-
-Package: io.github.sutuplus.test
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.test_1.0_iphoneos-arm.deb
-Size: 207278
-MD5sum: d615454b928de9ddaf631151eb7b7773
-SHA1: f7274bbb6e13cdfa67da746ad2274924be7b9cd8
-SHA256: 48bf61e08208b81fa19cf14a3797f53d9e40e1b80dde4ac06fc013cfcca259fe
-Section: Tweaks
-Description: 测试版。
-Author: Carby(公众号:苏兔)
-Name: SutuPLUS测试版(不要随便安装)
 
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
