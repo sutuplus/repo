@@ -280,3 +280,19 @@ Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
 Name: undecimus工具b50界面简体汉化包
 
+Package: io.github.undecimus.cn2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: debs/io.github.undecimus.cn2_1.0_iphoneos-arm.deb
+Size: 21856
+MD5sum: bb4b5dd744b29e4f2af6f5752c6cd2fa
+SHA1: 4d0a6342141f127560342ae444caa9676f004b7a
+SHA256: 819b2acad66e5bc79c671fcefdceab25d3bcea7995426c3d3a7caeb34e165e72
+Section: Tweaks
+Description: 纯净界面汉化版
+Author: Carby(公众号:苏兔)
+Name: undecimus工具b50界面繁体汉化包
+
