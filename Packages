@@ -271,12 +271,12 @@ Maintainer: Carby
 Installed-Size: 100
 Depends: mobilesubstrate
 Filename: debs/io.github.undecimus.cn_1.0_iphoneos-arm.deb
-Size: 21246
-MD5sum: 8390f847c2562588553aac65f4e41110
-SHA1: efabdb25acf12bacfd70ef0f21d74bab68a02e17
-SHA256: 80e65d0bdf6ca613168ea40e83172a533e8547773f26b8cc95f69c2d74136cc6
+Size: 21904
+MD5sum: c39affc2ed53304c081640c6e81be615
+SHA1: e57d846a05b88b32ad6aea469178436225ec8c1c
+SHA256: accab43d2821c606f888e40005c9e7d18ebc20726623d7db3883cacd46c7e56d
 Section: Tweaks
-Description: 这是一个汉化包
+Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
-Name: undecimus工具b29-b34汉化包
+Name: undecimus工具b50界面简体汉化包
 
