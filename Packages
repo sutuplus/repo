@@ -15,16 +15,16 @@ Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
 Package: io.github.sutuplus
-Version: 2.5.2
+Version: 2.5.3
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.5.2_iphoneos-arm.deb
-Size: 208706
-MD5sum: db5f7ff44887fe2ea7b3cd1e5eb190c0
-SHA1: 31d34c8d89c555ad26a3e0fd9aff8ca7e7aace9e
-SHA256: 8c5430e80da9b74b46b0d523fded885cd690febda03811f761adfc6a802ee43a
+Filename: debs/io.github.sutuplus_2.5.3_iphoneos-arm.deb
+Size: 208816
+MD5sum: ffd937b3e76d9459509ee34cafc8efcd
+SHA1: 3ecc39f3f6b94edfa4757edc1eec75084f5ce6d2
+SHA256: 8dc8a30fe059ff0df2c300357b6d646084f3c2d341d5b27c082bd71a0f4ff26b
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
@@ -233,16 +233,16 @@ Icon: file:///var/mobile/Documents/bysutu/weChatIcon/lostVx67.png
 Name: LOST简约-苏兔PLUS主题
 
 Package: io.github.sutuplus.release
-Version: 2.5.2
+Version: 2.5.3
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.5.2_iphoneos-arm.deb
-Size: 208738
-MD5sum: d13a3ca4e02548de90fa85f6eaea839d
-SHA1: 2cec5571310d78a1feccfcd8d01705fc2adaabac
-SHA256: e281fa198d04cd04b84478b6eb860dba3f90f2cb9c3e3ccdc04fe9d0fc44edf9
+Filename: debs/io.github.sutuplus.release_2.5.3_iphoneos-arm.deb
+Size: 208554
+MD5sum: d5832a451f8da26e72891890df540851
+SHA1: 597450c9c52c21c8f2bc4b6aed13aa4b94c48221
+SHA256: ba2ebf6be75459f5ce54e8f96f9b069ceaa5a5ce113a248e2b28af8afb628215
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
