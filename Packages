@@ -21,14 +21,14 @@ Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus_2.5.3_iphoneos-arm.deb
-Size: 208708
-MD5sum: 1027e994ea24df766a52673d38b7b325
-SHA1: 54efa2615a1f3d0c71bd62aa1071e74c17cbd472
-SHA256: d8a75b51c41f18322dbd9409a85b49a9c83d5405605671f8d881fe83f8004461
+Size: 208580
+MD5sum: 03a14ed788ea4425dac9c34a07e8937d
+SHA1: d927049b2ecbd39ebb755afab8fed8f005c8b09b
+SHA256: a25f414171cf967a7d914d11632e3e17f55ac975b283d49a628d15cd65023984
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
-Icon: http://sutuplus.github.io/repo/new/icon/icon.png
+Icon: http://sutuplus.github.io/repo/new/icon/iconcg.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.json
 
@@ -241,14 +241,16 @@ Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.release_2.5.3_iphoneos-arm.deb
-Size: 208554
-MD5sum: d5832a451f8da26e72891890df540851
-SHA1: 597450c9c52c21c8f2bc4b6aed13aa4b94c48221
-SHA256: ba2ebf6be75459f5ce54e8f96f9b069ceaa5a5ce113a248e2b28af8afb628215
+Size: 208720
+MD5sum: 4dd975521459fb8120eaa0c3bdb01259
+SHA1: 969a94ccf5780bbc0c3ce081a77d762bfda533ff
+SHA256: d1f4923d6f3c853b5b7b07450a26333bfa67f034fe65fdb650352d4f67c4cca0
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
+Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
 
 Package: io.github.sutuplus.vxTheme2018
 Version: 1.0
