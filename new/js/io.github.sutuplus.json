@@ -5,7 +5,7 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "插件简介",
             "tintColor": "#a2b9c9",
             "views": [
                 {
@@ -108,7 +108,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "Changelog",
+            "tabname": "更新日志",
             "tintColor": "#a2b9c9",
             "views": [
                 {
