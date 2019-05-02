@@ -1,0 +1,127 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "http://sutuplus.github.io/repo/new/head/sutupluscg.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": “插件说明”,
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style=\"font-size:10pt;\">123</p>\n<p style=\"font-size:10pt;\">如何安装</p>\n<p style=\"font-size:10pt;\">就这样安装</p>\n<p style=\"font-size:10pt;\"><strong>测试加粗</strong>测试不加粗</p>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Screenshots",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 8,
+                    "itemSize": "{330, 596.385543}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": “截图”,
+                            "url": "http://sutuplus.github.io/repo/new/pic/sutuplus1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": “软件信息”,
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": “Carby”,
+                    "title": “作者”
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": “2.5.3”,
+                    "title": “当前版本”
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS9 - 12.1.2",
+                    "title": “系统支持”
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 40
+                },
+                {
+                    "URL": "https://sutuplus.github.io/repo/CydiaIcon.png",
+                    "alignment": 1,
+                    "class": "DepictionImageView",
+                    "cornerRadius": 0,
+                    "height": 45,
+                    "width": 45
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": “2.5.3”,
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>修复了什么</li>\n<li>修复了什么什么</li>\n</ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": “2.5.3”,
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>适配A12</li>\n</ul>",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+    "tintColor": "#a2b9c9"
+}
