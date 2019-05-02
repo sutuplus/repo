@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Description",
+                    "title": "关于",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -24,7 +24,7 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Screenshots",
+                    "title": "预览",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -63,22 +63,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "Carby",
-                    "title": "Author"
+                    "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "2.5.3",
-                    "title": "Version"
+                    "title": "当前版本"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS9 - 12.1.2",
-                    "title": "Compatibility"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "N/A",
-                    "title": "Dependency"
+                    "title": "支持系统"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -105,13 +100,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0-1",
+                    "title": "2.5.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Fixed something</li>\n<li>Fixed another something</li>\n</ul>",
+                    "markdown": "<ul>\n<li>适配A12</li>\n<li>测试</li>\n</ul>",
                     "useRawFormat": true
                 },
                 {
@@ -122,7 +117,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+                    "markdown": "<ul>\n<li>sutuplus诞生</li>\n</ul>",
                     "useRawFormat": true
                 }
             ]
