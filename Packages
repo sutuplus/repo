@@ -21,16 +21,16 @@ Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus_2.5.3_iphoneos-arm.deb
-Size: 208822
-MD5sum: 7683a8fc702cd833ee50262cd4f5c715
-SHA1: cd4a318ea5a776ed6fc79f8dbc6f8133878dfb86
-SHA256: 324ed586743e145dc05969369f64cb29e5210f014f62f6048519530903e35880
+Size: 208708
+MD5sum: 1027e994ea24df766a52673d38b7b325
+SHA1: 54efa2615a1f3d0c71bd62aa1071e74c17cbd472
+SHA256: d8a75b51c41f18322dbd9409a85b49a9c83d5405605671f8d881fe83f8004461
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
 Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
-Sileodepiction: http://sutuplus.github.io/repo/new/js/sutupluscg.json
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.json
 
 Package: io.github.sutuplus.CuteTeaTimePVx67
 Version: 2.0
