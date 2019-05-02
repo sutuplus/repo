@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Information",
+                    "title": "插件信息",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
