@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "http://sutuplus.github.io/repo/new/head/sutupluscg.png",
+    "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -10,13 +10,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": “插件说明”,
+                    "title": "Description",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style=\"font-size:10pt;\">123</p>\n<p style=\"font-size:10pt;\">如何安装</p>\n<p style=\"font-size:10pt;\">就这样安装</p>\n<p style=\"font-size:10pt;\"><strong>测试加粗</strong>测试不加粗</p>",
+                    "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
                     "useRawFormat": true
                 },
                 {
@@ -34,8 +34,8 @@
                     "itemSize": "{330, 596.385543}",
                     "screenshots": [
                         {
-                            "accessibilityText": “截图”,
-                            "url": "http://sutuplus.github.io/repo/new/pic/sutuplus1.png"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew235/ss.png"
                         }
                     ]
                 },
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": “软件信息”,
+                    "title": "Information",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -62,25 +62,57 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": “Carby”,
-                    "title": “作者”
+                    "text": "Evelyn (ev_ynw)",
+                    "title": "Author"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": “2.5.3”,
-                    "title": “当前版本”
+                    "text": "1.0",
+                    "title": "Version"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "iOS9 - 12.1.2",
-                    "title": “系统支持”
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "N/A",
+                    "title": "Dependency"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "action": "https://twitter.com/ev_ynw",
+                    "class": "DepictionTableButtonView",
+                    "title": "Find me on Twitter (@ev_ynw)",
+                    "openExternal": true
+                },
+                {
+                    "action": "mailto:ev.ynam.w@gmail.com",
+                    "class": "DepictionTableButtonView",
+                    "title": "Send me an email"
+                },
+                {
+                    "action": "https://paypal.me/evynw",
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy me a 🍺 via PayPal"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 40
                 },
                 {
-                    "URL": "https://sutuplus.github.io/repo/CydiaIcon.png",
+                    "URL": "https://evynw.github.io/CydiaIcon.png",
                     "alignment": 1,
                     "class": "DepictionImageView",
                     "cornerRadius": 0,
@@ -100,24 +132,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": “2.5.3”,
+                    "title": "1.0-1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>修复了什么</li>\n<li>修复了什么什么</li>\n</ul>",
+                    "markdown": "<ul>\n<li>Fixed something</li>\n<li>Fixed another something</li>\n</ul>",
                     "useRawFormat": true
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": “2.5.3”,
+                    "title": "1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>适配A12</li>\n</ul>",
+                    "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
                     "useRawFormat": true
                 }
             ]
