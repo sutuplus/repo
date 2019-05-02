@@ -12,7 +12,7 @@
                     "class": "DepictionHeaderView",
                     "title": "关于",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -26,7 +26,7 @@
                     "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -62,7 +62,7 @@
                     "class": "DepictionHeaderView",
                     "title": "详情",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -115,7 +115,7 @@
                     "class": "DepictionSubheaderView",
                     "title": "2.5.3",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "class": "DepictionMarkdownView",
