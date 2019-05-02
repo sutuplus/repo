@@ -9,14 +9,8 @@
             "tintColor": "#a2b9c9",
             "views": [
                 {
-                    "class": "DepictionHeaderView",
-                    "title": "关于",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style=\"font-size:10pt;\"><strong>主题列表（主要）</strong></p>\n<p style=\"font-size:10pt;\">脱离原有主题依赖an加载或封包手动替换的模式，直接使用插件加载美化主题。实现在插件内快捷查看、管理、使用主题。 </p>\n\n<p style=\"font-size:10pt;\"><strong>直接调用color.css</strong></p>\n<p style=\"font-size:10pt;\">不用手动根据不同的主题替换color.css了，在搭配主题列表功能的前提下，可以不需要任何多余操作，切换主题的同时生效color。</p>\n\n<p style=\"font-size:10pt;\"><strong>免红包/卡券图标替换</strong></p>\n<p style=\"font-size:10pt;\">同样不需要手动找到路径替换了，在制作适配插件主题时，直接和其他图片素材放置在同一路径下可直接生效。</p>\n\n<p style=\"font-size:10pt;\"><strong>主题配套默认聊天背景</strong></p>\n<p style=\"font-size:10pt;\">默认的聊天背景文件规范。在主题作者完成了背景制作的前提下，应用主题即可默认帮忙替换聊天背景。</p>\n\n<p style=\"font-size:10pt;\"><strong>背景颜色和透明度配置</strong></p>\n<p style=\"font-size:10pt;\">避免背景过花看不清楚字，可以通过插件配置透明度和颜色。</p>\n\n<p style=\"font-size:10pt;\">欢迎关注我的公众号：苏兔，获取更多免费资源。</p>\n",
+                    "markdown": "<p>这是一款微信美化神器。</p>\n<p> </p>\n<p style=\"font-size:10pt;\"><strong>一键切换主题</strong></p>\n<p style=\"font-size:10pt;\">脱离原有主题依赖an加载或封包手动替换的模式，直接使用插件加载美化主题。实现在插件内快捷查看、管理、使用主题。 </p>\n\n<p style=\"font-size:10pt;\"><strong>主题专属配色（color.css）</strong></p>\n<p style=\"font-size:10pt;\">不用手动根据不同的主题替换color.css文件，切换主题的同时自动根据主题生效。</p>\n\n<p style=\"font-size:10pt;\"><strong>免手动替换</strong></p>\n<p style=\"font-size:10pt;\">不需要手动找到路径替换了（如红包/卡券等），直接和其他图片素材放置在同一路径下生效。</p>\n\n<p style=\"font-size:10pt;\"><strong>配套聊天背景</strong></p>\n<p style=\"font-size:10pt;\">默认的聊天背景文件规范。在主题作者完成了背景制作的前提下，应用主题即可默认帮忙替换聊天背景。</p>\n\n<p style=\"font-size:10pt;\"><strong>背景和透明度配置</strong></p>\n<p style=\"font-size:10pt;\">避免背景过花看不清楚字，可以通过插件配置透明度和颜色。</p>\n<p> </p>\n<p style=\"font-size:10pt;\">欢迎关注我的公众号：苏兔，获取更多免费资源。</p>\n",
                     "useRawFormat": true
                 },
                 {
