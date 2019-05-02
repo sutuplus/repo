@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style=\"font-size:10pt;\">测试1</p>\n<p style=\"font-size:10pt;\">测试2</p>\n<p style=\"font-size:10pt;\">测试3</p>\n<p style=\"font-size:10pt;\"><strong>测试4</strong>测试5</p>",
+                    "markdown": "<p style=\"font-size:10pt;\"><strong>主题列表（主要）</strong></p>\n<p style=\"font-size:10pt;\">脱离原有主题依赖an加载或封包手动替换的模式，直接使用插件加载美化主题。实现在插件内快捷查看、管理、使用主题。 </p>\n\n<p style=\"font-size:10pt;\"><strong>直接调用color.css</strong></p>\n<p style=\"font-size:10pt;\">不用手动根据不同的主题替换color.css了，在搭配主题列表功能的前提下，可以不需要任何多余操作，切换主题的同时生效color。</p>\n\n<p style=\"font-size:10pt;\"><strong>免红包/卡券图标替换</strong></p>\n<p style=\"font-size:10pt;\">同样不需要手动找到路径替换了，在制作适配插件主题时，直接和其他图片素材放置在同一路径下可直接生效。</p>\n\n<p style=\"font-size:10pt;\"><strong>主题配套默认聊天背景</strong></p>\n<p style=\"font-size:10pt;\">默认的聊天背景文件规范。在主题作者完成了背景制作的前提下，应用主题即可默认帮忙替换聊天背景。</p>\n\n<p style=\"font-size:10pt;\"><strong>背景颜色和透明度配置</strong></p>\n<p style=\"font-size:10pt;\">避免背景过花看不清楚字，可以通过插件配置透明度和颜色。</p>\n\n<p style=\"font-size:10pt;\">欢迎关注我的公众号：苏兔，获取更多免费资源。</p>\n",
                     "useRawFormat": true
                 },
                 {
@@ -119,7 +119,40 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>适配A12</li>\n<li>测试</li>\n</ul>",
+                    "markdown": "<ul>\n<li>更好的适配A12</li>\n<li>优化主题在iPhone Xs max、Xs、Xr设备上的素材显示效果支持（作者不需要新增素材，和x用同一套东西）</li><li>修复了配置info时的部分功能丢失问题</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>VX6版本“我”页面设置背景透明度失效的问题</li>\n<li>VX7版本使用一整片底栏图片时会错位的问题</li><li>之前使用过自定义顶栏图片或色值的配置可以直接被清理「插件设置页右上角的“清理”按钮按一下后重启VX即可」</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>新增插件直接映射6.x版本素材为7.x版本。7的气泡需要另外绘制（映射可以在设置-主题应用位置设置里最后一行打开，也可以使用作者配置好的info.json）</li>\n<li>使用插件加载默认表情美化效果。例如加载qq表情，放在主题文件夹下的Expression文件里，和Assets文件夹平级</li><li>在填写色值的时候，新增了可视化选择颜色或直接填写色值的功能，拾色器可选中色值后调整它的明暗对比度</li>\n<li>在“我的主题”页面新增了搜索功能，主题特别多的小可爱可以输入主题名称快捷搜索到啦</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>修复iPhoneX系列机型部分主题首页底栏拉伸变形问题</li>\n<li>修复非iPhoneX加载启动页时变形的问题</li><li>更多小细节优化。比如撤回功能的类型区分与性能优化，功能开关的默认状态等等</li>\n<li>聊天页底部透明（可以在苏兔PLUS-主题应用位置设置里关掉“iPX+聊天底部透明”）</li>\n<li>更多小细节优化。比如撤回功能的类型区分与性能优化，功能开关的默认状态等等</li>\n<li>7+VX聊天页可展示输入框（直接调用6微信输入框素材SendTextViewBkg，可以在苏兔PLUS-主题应用位置设置里关掉“聊天框美化”）</li>\n<li>增加了是否加载启动页的开关，可在主题应用位置的设置里关掉插件加载</li>\n</ul>",
                     "useRawFormat": true
                 }
             ]
