@@ -9,7 +9,7 @@
             "tintColor": "#a2b9c9",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "关于",
                     "useBoldText": true,
                     "useBottomMargin": false
@@ -23,7 +23,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
+                    "class": "DepictionHeaderView",
                     "title": "预览",
                     "useBoldText": true,
                     "useBottomMargin": false
@@ -34,8 +34,16 @@
                     "itemSize": "{330, 596.385543}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot",
+                            "accessibilityText": "屏幕截图1",
                             "url": "http://sutuplus.github.io/repo/new/pic/sutuplus1.png"
+                        },
+                        {
+                            "accessibilityText": "屏幕截图2",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sutuplus2.png"
+                        },
+                        {
+                            "accessibilityText": "屏幕截图3",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sutuplus3.png"
                         }
                     ]
                 },
@@ -63,7 +71,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "Carby",
-                    "title": "作者"
+                    "title": "插件作者"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -74,6 +82,11 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS9 - 12.1.2",
                     "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2019年4月30日",
+                    "title": "更新日期"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -107,17 +120,6 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "<ul>\n<li>适配A12</li>\n<li>测试</li>\n</ul>",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>sutuplus诞生</li>\n</ul>",
                     "useRawFormat": true
                 }
             ]
