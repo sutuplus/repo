@@ -1,1 +1,132 @@
-123
+{
+    "class": "DepictionTabView",
+    "headerImage": "http://sutuplus.github.io/repo/new/head/sutupluscg.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style=\"font-size:10pt;\">测试1</p>\n<p style=\"font-size:10pt;\">测试2</p>\n<p style=\"font-size:10pt;\">测试3</p>\n<p style=\"font-size:10pt;\"><strong>测试4</strong>测试5</p>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Screenshots",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 8,
+                    "itemSize": "{330, 596.385543}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sutuplus1.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Carby",
+                    "title": "Author"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.5.3",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS9 - 12.1.2",
+                    "title": "Compatibility"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "N/A",
+                    "title": "Dependency"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 40
+                },
+                {
+                    "URL": "http://sutuplus.github.io/repo/CydiaIcon.png",
+                    "alignment": 1,
+                    "class": "DepictionImageView",
+                    "cornerRadius": 0,
+                    "height": 45,
+                    "width": 45
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0-1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fixed something</li>\n<li>Fixed another something</li>\n</ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+    "tintColor": "#a2b9c9"
+}
