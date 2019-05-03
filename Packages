@@ -32,207 +32,37 @@ Icon: http://sutuplus.github.io/repo/new/icon/iconcg.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.json
 
-Package: io.github.sutuplus.CuteTeaTimePVx67
+Package: io.github.sutuplus.SketchBoxNewVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.SketchBoxNewVx67.deb
+Size: 1834520
+MD5sum: fe8f7a85bdbbf624b095ee66e58c7f07
+SHA1: 0203bf60b0902240766617c7da32186ec66622b7
+SHA256: 67e17282dfd927a2615192c46f506eaa8bd7871eee6bfa76854c777fd9db4146
+Section: WechatTheme
+Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Name: Sketch方块气泡New 微信主题
+
+Package: io.github.sutuplus.SketchTheme
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.cuteteatimepvx67_1.0_iphoneos-arm.deb
-Size: 3866988
-MD5sum: 2429a74b6584daced932d2f59bf989fd
-SHA1: 0e37ef88c3de7e1aeef7f04469b64a9a8cda143c
-SHA256: 2bc70b2f255dad8bbb64fd4ab2790cdb40adcdac2065b007b06d40c443acdbd6
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/NightModeBylpssVx67.png
-Name: 莎莎的下午茶-苏兔PLUS主题
-
-Package: io.github.sutuplus.GeoTextWeChatBySoda
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Soda
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.GeoTextWeChatBySoda.deb
-Size: 796872
-MD5sum: 0cc8fdde80e7afec2731b0431025e68f
-SHA1: f2049f076d268fa1294b2240f23cb79c956e8334
-SHA256: 3455088734b7b81d75d9bc2e871f7f194afee5856e1a9485f3c5614ad49bd515
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: Sodaso苏打
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/GeoTextWeChatBySoda.png
-Name: Geo有文字版-苏兔PLUS主题
-
-Package: io.github.sutuplus.GeoWeChatBySoda
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Soda
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.GeoWeChatBySoda.deb
-Size: 734456
-MD5sum: 18ddf6e1195cc110c05273b6d703bfcc
-SHA1: 5c4197e8cfd9ecf3806f88587725b7a43a4da126
-SHA256: afe8301468b401ad6c95bf0f73a5b7723a6844cf2a1779ce9152317ea3340480
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: Sodaso苏打
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/GeoTextWeChatBySoda.png
-Name: Geo-苏兔PLUS主题
-
-Package: io.github.sutuplus.GradationVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.gradationvx67_1.0_iphoneos-arm.deb
-Size: 773582
-MD5sum: 9b9ae09d0d1c7855fdbaab0578013d0e
-SHA1: 5f0f7a54576b0470b48268c6f773b1b592d2a15d
-SHA256: b324fd7f94e024a391a03d7dd798445e6b37323193ccfc6d961c3ce532862a23
-Section: WechatTheme
-Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Name: GradationVx67-苏兔PLUS版
-
-Package: io.github.sutuplus.MyCatVx67
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.mycatvx67_2.0_iphoneos-arm.deb
-Size: 2855030
-MD5sum: 8216ece2e7b37ea4e5325f3d9ff0dad7
-SHA1: 7491694ce4722603f79ded7724201b3c82d0ddd8
-SHA256: 8617c2222dae04c65e61c515ae01d9850457878809c37af6193f5ec7ae207005
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/MyCatVx67.png
-Name: [优化版]做我的猫-苏兔PLUS主题
-
-Package: io.github.sutuplus.TalksVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.talksvx67_1.0_iphoneos-arm.deb
-Size: 954314
-MD5sum: c8a56d0dfbee9c02ed125ccc1152abec
-SHA1: 0653bb60f76e8409aace480292c1f8b2ad46d00d
-SHA256: f103a514779b15edffe28d333ed4aedb1c6597a86cc02c7ac737947c6532cf47
-Section: WechatTheme
-Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Name: TalksVx67-苏兔PLUS版
-
-Package: io.github.sutuplus.TiltBlueVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.tiltbluevx67.deb
-Size: 2077444
-MD5sum: 3c13f6c71ed03ca719a6ad118f11d620
-SHA1: 442719e6ff8ca8c23ce13813eacf269925a9667f
-SHA256: 0910df9825121cf04480c3ec46f7e5f36906e9a320f98f83a403574b74badf84
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/TiltBlueVx67.png
-Name: Tilt蓝色版-苏兔PLUS主题
-
-Package: io.github.sutuplus.TiltYellowVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.tiltyellowvx67.deb
-Size: 2076320
-MD5sum: 9fd992bb7532a3238cf4fc9dcb4b111c
-SHA1: 265031fc694a0ed15f216208b580a963c975ef91
-SHA256: bf3c175990688d1a0462090d75478834f5cbf2d02a8b4dc064616c9ee01ad51c
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/TiltYellowVx67.png
-Name: Tilt黄色版-苏兔PLUS主题
-
-Package: io.github.sutuplus.dotBlackVx67Carby
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.dotBlackVx67Carby.deb
-Size: 542028
-MD5sum: 5ed1dd448f75edc6dfa9cf9c17b93019
-SHA1: 74703bdbcbc90fde6f53059d280508fc62ce2f61
-SHA256: eaa5061245bbb81db5ffa76ec86cf06f33f2777e181a708a49e309040d57e9ae
+Filename: debs/io.github.sutuplus.SketchTheme.deb
+Size: 1818600
+MD5sum: cf43a68ce7943f689abca84d77f7ecf7
+SHA1: d256f85ada82e9ac86c56c1eb7fe94a0a89a9833
+SHA256: 16048508aa5fbbc02c5f7b34a8ba275a05b6c6c916487865abc29e7f464ff82c
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/dotBlackVx67Carby.png
-Name: dot黑色气泡版-微信主题 苏兔PLUS
-
-Package: io.github.sutuplus.dotVx67Carby
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.dotVx67Carby.deb
-Size: 525564
-MD5sum: d3175ffdae0eb70d0ef1842224ee75b3
-SHA1: 050f458f220bbd560fdeb3fda914a3d50054fe87
-SHA256: 6c77f935e9e057728a36566eb1c88cfd56990a3037a5fc98a313b20214e67b64
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/dotVx67Carby.png
-Name: dot微信主题 苏兔PLUS
-
-Package: io.github.sutuplus.fake7OnlyVx6
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 蒽崽甜啦噜丿
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.fake7onlyvx6_1.0_iphoneos-arm.deb
-Size: 307454
-MD5sum: 0e800654a64a268a6c0d92f05b93c7f1
-SHA1: 229c2dd61cb3503d6406fe1206f67ff309c91c51
-SHA256: 7266792b3d8382c8706b9f0baf6ed1b1e198798f706d83dd4ad18e291fc49928
-Section: WechatTheme
-Description: 高仿微信7.x版本风格，主题兼容只兼容微信6.x版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/fake7OnlyVx6.png
-Name: 假装在用微信7.0 苏兔PLUS微信主题
-
-Package: io.github.sutuplus.lostVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.lostVx67.deb
-Size: 633440
-MD5sum: 9cb62a242ce1baf1c0d927b7d415e615
-SHA1: 483204434452a5d2d180277943daa0d41589f95c
-SHA256: 022cd391a93ae1decb76f5eb5656defd62ae3268af2593c68e63dbf565e27311
-Section: WechatTheme
-Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Icon: file:///var/mobile/Documents/bysutu/weChatIcon/lostVx67.png
-Name: LOST简约-苏兔PLUS主题
+Name: Sketch New 微信主题
 
 Package: io.github.sutuplus.release
 Version: 2.5.3
@@ -251,22 +81,6 @@ Author: Carby(公众号:苏兔)
 Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
-
-Package: io.github.sutuplus.vxTheme2018
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.vxtheme2018_1.0_iphoneos-arm.deb
-Size: 37812256
-MD5sum: e47b7987b52609f5eb7800373ed79c62
-SHA1: 7ae9926b239db11418321f473eca42c0048b608f
-SHA256: bd7b6a5bf718c4ef0b3972ab48f58650ef8f0741ec78e4cb7266dabf685542da
-Section: WechatTheme
-Description: 主题需配合插件“苏兔PLUS”使用。 完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br><br>Tips：通过插件替换的首屏启动页，不会根据主题变化，需清除缓存或替换缓存文件才可以！更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号:苏兔(bysutu)
-Name: 2018苏兔PLUS微信主题大礼包
 
 Package: io.github.undecimus.cn
 Version: 1.0
