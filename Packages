@@ -38,15 +38,17 @@ Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.SketchBoxNewVx67.deb
-Size: 1834520
-MD5sum: fe8f7a85bdbbf624b095ee66e58c7f07
-SHA1: 0203bf60b0902240766617c7da32186ec66622b7
-SHA256: 67e17282dfd927a2615192c46f506eaa8bd7871eee6bfa76854c777fd9db4146
+Filename: debs/io.github.sutuplus.sketchboxnewvx67_1.0_iphoneos-arm.deb
+Size: 1834778
+MD5sum: d9bd610886283e98c2f7c1cb0df2ae10
+SHA1: 69b25ff5109c85e399e0d1fee6ba5ba9515d222c
+SHA256: 1d230b1eea1cb82666bf2a891f3cf270fa5d57c1357b62ba38cc11b70819cc7b
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Sketch方块气泡New 微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchBoxNewVx67.json
 
 Package: io.github.sutuplus.SketchTheme
 Version: 2.0
@@ -54,15 +56,17 @@ Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.SketchTheme.deb
-Size: 1818600
-MD5sum: cf43a68ce7943f689abca84d77f7ecf7
-SHA1: d256f85ada82e9ac86c56c1eb7fe94a0a89a9833
-SHA256: 16048508aa5fbbc02c5f7b34a8ba275a05b6c6c916487865abc29e7f464ff82c
+Filename: debs/io.github.sutuplus.sketchtheme_2.0_iphoneos-arm.deb
+Size: 1818948
+MD5sum: e05d0f72814f64e0a794ae84d186e60d
+SHA1: 87b9f9713433c364cdd8f6df29e2052fcf16ebbd
+SHA256: 0bf78854d866d44671fdcdb9c89d766493af0190b287005180868da37e7fdf28
 Section: WechatTheme
 Description: 主题兼容微信6.x至最新版本，需配合插件“苏兔PLUS”使用。完成主题安装后，进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。 <br> iOS12设备首次使用deb直装包，需确认主题路径下是否创建了“CarbyTheme”文件夹 <br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Sketch New 微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchTheme.json
 
 Package: io.github.sutuplus.release
 Version: 2.5.3

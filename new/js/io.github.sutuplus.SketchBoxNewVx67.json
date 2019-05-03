@@ -1,0 +1,133 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "http://sutuplus.github.io/repo/new/head/,",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "主题简介",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "关于",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style=\"font-size:10pt;\">这是我最喜欢的一款主题，歪歪扭扭的手绘风，黑白配色。A12越狱一出，我第一个着手翻新的就是它了，一直以来我用的最多的也是它了。 </p>\n<p>\n</p><p style=\"font-size:10pt;\"><strong>使用教程</strong></p>\n<p style=\"font-size:10pt;\">关注公众号：苏兔，回复关键词“插件”可查看配合苏兔PLUS美化微信的完整教程「有图/文/视频各种教程」</p>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 8,
+                    "itemSize": "{330, 596.385543}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "屏幕截图1",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sketch2.png"
+                        },
+                        {
+                            "accessibilityText": "屏幕截图2",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sketch3.png"
+                        },
+                        {
+                            "accessibilityText": "屏幕截图3",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sketch4.png"
+                        },
+                        {
+                            "accessibilityText": "屏幕截图4",
+                            "url": "http://sutuplus.github.io/repo/new/pic/sketch5.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Carby",
+                    "title": "主题作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "当前版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS9 - 12.1.2",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2019年5月3日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 40
+                },
+                {
+                    "URL": "http://sutuplus.github.io/repo/CydiaIcon.png",
+                    "alignment": 1,
+                    "class": "DepictionImageView",
+                    "cornerRadius": 0,
+                    "height": 45,
+                    "width": 45
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "tintColor": "#a2b9c9",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>补充了部分微信7.+版本的素材</li>\n<li>修复了使用微信6.+版本时，tabbar背景镂空的问题</li><li>补充了部分新找到位置的素材美化</li></ul>",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+    "tintColor": "#a2b9c9"
+}
