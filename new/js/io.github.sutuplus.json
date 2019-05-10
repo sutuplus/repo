@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.5.4",
+                    "text": "2.6.0",
                     "title": "当前版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2019年5月4日",
+                    "text": "2019年5月10日",
                     "title": "更新日期"
                 },
                 {
@@ -113,13 +113,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.5.4",
+                    "title": "2.6.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>新增：针对Xr和Xs Max新增素材命名「在插件底部的适配教程内有详细说明」。当然，如果没有顶栏+背景复杂样式融为一体或者复杂顶栏样式的主题，是可以不另外做，如果找不到Xr和max的素材，插件会直接调用iPhoneX的，这一块不必担心</li>\n<li>修复：部分info配置导致功能丢失的问题（非常小概率)</li></ul>",
+                    "markdown": "<ul>\n<li>增加新的主题储存路径：/Library/CarbyTheme/\n主题放置在这里不会因为升级/卸载或其他原因导致路径变更或者被清理了。\n704版本以下可根据个人使用习惯随意放在哪里，704请务必迁移主题到新的主题路径下</li>\n<li>修复704更新后导致美化失效的部分（比如通讯录的cell等等）</li>\n<li>修复在6版本时顶栏偶然会黑一下以及联系人资料背景失效的问题（7版本不包含这个）</li>\n<li>一些七七八八小东西的优化</li>\n<li>更新了部分按钮文案</li></ul>",
                     "useRawFormat": true
                 },
                 {
