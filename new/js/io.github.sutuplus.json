@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.6.0",
+                    "text": "2.6.1",
                     "title": "当前版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2019年5月10日",
+                    "text": "2019年5月11日",
                     "title": "更新日期"
                 },
                 {
@@ -111,6 +111,17 @@
             "tabname": "更新日志",
             "tintColor": "#a2b9c9",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>解决VX6使用时偶发的资料卡显示错误问题</li>\n<li>解决iPhoneX机型背景被错误放大显示的问题</li>\n<li>新增了一个针对Xr和XsMax素材自动适配的开关（在微信-我-设置-苏兔PLUS-主题应用设置内）</li>\n<li>非上述两个机型不显示此按钮</ br>老旧主题不包含Xs和XsMax的mrname素材时，建议打开此按钮</ br>主题包含此素材，或主题样式足够简约，则不建议打开（打开多多少少会比不打开多一些资源损耗的</ br>另，此按钮不会根据主题变更而自动打开</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.6.0",
