@@ -15,16 +15,16 @@ Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
 Package: io.github.sutuplus
-Version: 2.6.1
+Version: 2.6.2
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus_2.6.1_iphoneos-arm.deb
-Size: 210024
-MD5sum: 1b95c783de7d19012ae3e3c4da0c8427
-SHA1: ffe9d881edd9e629910186db846de7139ad95447
-SHA256: 8d9eb98fbb6621f3da1989628c1ff4c2924aa3737ec675ba9d57933136752266
+Filename: debs/io.github.sutuplus_2.6.2_iphoneos-arm.deb
+Size: 210304
+MD5sum: ed3eaa8cf280d1f898e96544546da960
+SHA1: 1f1360fd3223959303d2d9e8fb38ae1a2a6247f1
+SHA256: 282d72b6ea8b7fc046578e5ff36d13593534c141e25147bed9fadc32022c157d
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
@@ -87,16 +87,16 @@ Name: Sketch New 微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchTheme.json
 
 Package: io.github.sutuplus.release
-Version: 2.6.1
+Version: 2.6.2
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.6.1_iphoneos-arm.deb
-Size: 209828
-MD5sum: b301cae158bc25a26e02fc6ae0119bc0
-SHA1: a359fd43eb6a7ca22f56cbcd883c98adcde736ef
-SHA256: 4d1e4a26167ed71912cd4a7e7e6ccbab13315a4ead5bebb91f0675c73daadf1e
+Filename: debs/io.github.sutuplus.release_2.6.2_iphoneos-arm.deb
+Size: 210240
+MD5sum: 82e08fc54b98dba13bfc5e911b5d5155
+SHA1: 209be4b0c6554c296c0613d0ad0ff21222676a56
+SHA256: ff58231febbbd3fab955d4f39484f25c95a22843c487bb45c1aface1556dd19b
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
