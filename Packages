@@ -104,6 +104,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
 
+Package: io.github.sutuplus.whiteBearVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.whitebearvx67_1.0_iphoneos-arm.deb
+Size: 9575860
+MD5sum: 461711ff0bee68b0dfd85f095a13c8ff
+SHA1: 54a6ab1dab905bf4ad9460414e77cfa752e446a4
+SHA256: 97872d53783c0c95a24421e72d4ffb2f8e1dfbbe83835b9a05cc91bbec6c4780
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.0 以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 白小熊 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.whiteBearVx67.json
+
 Package: io.github.undecimus.cn
 Version: 1.0
 Architecture: iphoneos-arm
