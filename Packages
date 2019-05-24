@@ -147,14 +147,14 @@ Maintainer: Carby
 Installed-Size: 100
 Depends: mobilesubstrate
 Filename: debs/io.github.undecimus.cn_1.0_iphoneos-arm.deb
-Size: 21904
-MD5sum: c39affc2ed53304c081640c6e81be615
-SHA1: e57d846a05b88b32ad6aea469178436225ec8c1c
-SHA256: accab43d2821c606f888e40005c9e7d18ebc20726623d7db3883cacd46c7e56d
+Size: 21604
+MD5sum: e93ed863ac1afca4fd1c37070fb78956
+SHA1: 8835279eeccb3609721c7b41c3ec0810f4f5b1db
+SHA256: 583ce86479478d9e0c75c21463453ef034061dfcc64ed0c5d772948ae52d2001
 Section: Tweaks
 Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
-Name: undecimus工具b50界面简体汉化包
+Name: undecimus工具3.1.0界面简体汉化包
 
 Package: io.github.undecimus.cn2
 Version: 1.0
@@ -163,12 +163,12 @@ Maintainer: Carby
 Installed-Size: 100
 Depends: mobilesubstrate
 Filename: debs/io.github.undecimus.cn2_1.0_iphoneos-arm.deb
-Size: 21856
-MD5sum: bb4b5dd744b29e4f2af6f5752c6cd2fa
-SHA1: 4d0a6342141f127560342ae444caa9676f004b7a
-SHA256: 819b2acad66e5bc79c671fcefdceab25d3bcea7995426c3d3a7caeb34e165e72
+Size: 21674
+MD5sum: 22c33c8335e27c556f453f5ae5eeb26e
+SHA1: c0c6590be31246c623feee4031a51a37241bb115
+SHA256: f3bb1fb14257033527420f55b0260b511a44f76d673c8f18911fe834cbe47516
 Section: Tweaks
 Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
-Name: undecimus工具b50界面繁体汉化包
+Name: undecimus工具3.1.0界面繁体汉化包
 
