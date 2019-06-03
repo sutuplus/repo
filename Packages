@@ -32,6 +32,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/iconcg.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.json
 
+Package: io.github.sutuplus.ChildlikeVx67
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.childlikevx67_2.0_iphoneos-arm.deb
+Size: 1391512
+MD5sum: 8120abc4882f407c6bb9b5b2f2ff7f7f
+SHA1: cafd651696021b61be4935580715b72eba06bef1
+SHA256: df6e98031c8b9a46a759ff43467564888b7f5f056ef4307e45e9919c465ed261
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.0 以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Childlike sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.ChildlikeVx67.json
+
 Package: io.github.sutuplus.MissTheme
 Version: 2.0
 Architecture: iphoneos-arm
@@ -103,6 +121,24 @@ Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Sketch New 微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchTheme.json
+
+Package: io.github.sutuplus.TalksVx67
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.talksvx67_2.0_iphoneos-arm.deb
+Size: 1071244
+MD5sum: efe34ad5b43633ba7f0eaf954c8784ea
+SHA1: e8c4f388796ff6fab954dde674cd72f744bc3c97
+SHA256: e7448298b954e52be56f3c9457d41917f6560af6b4528957433f19470d7617af
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.0 以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Talks sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.TalksVx67.json
 
 Package: io.github.sutuplus.release
 Version: 2.6.2
