@@ -32,6 +32,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/iconcg.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.json
 
+Package: io.github.sutuplus.BluelakeVx67
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.bluelakevx67_2.0_iphoneos-arm.deb
+Size: 2379884
+MD5sum: a9d4d3835a00fb28d24b670a8908f7d3
+SHA1: fea64d298ea7cdb766270d3973c77bef9703ab7a
+SHA256: 0adcd992f9538d4ec187b0a5e7310e0c3c56fef75f238fea214a797ac7471cca
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.0 以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 湖蓝 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.BluelakeVx67.json
+
 Package: io.github.sutuplus.ChildlikeVx67
 Version: 2.0
 Architecture: iphoneos-arm
