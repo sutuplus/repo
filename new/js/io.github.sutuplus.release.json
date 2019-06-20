@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.6.2",
+                    "text": "2.6.3",
                     "title": "当前版本"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2019年5月14日",
+                    "text": "2019年6月20日",
                     "title": "更新日期"
                 },
                 {
@@ -111,6 +111,17 @@
             "tabname": "更新日志",
             "tintColor": "#a2b9c9",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>解决部分iOS11机型无法直接安装deb的问题(除手机本身dpkg相关服务破坏的情况)</li>\n<li>解决部分机型在VX6使用主题时，快捷手势返回首页或其他页面，顶栏出现错误黑色或灰色的情况</li>\n<li>优化了高分辨率机型的实际显示效果</li>\n<li>修改了“神秘主题”的角标…</li>\n<li>增加了一种新的加密主题支持，如不想泄露素材，想要公开分享，可联系我投稿(目前只支持投稿)</li>\n<li>增加了一个我的备用公众号的关注引导，首次安装或更新会出现一次，不会重复出现，不用担心骚扰问题</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.6.2",
