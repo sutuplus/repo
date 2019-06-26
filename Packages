@@ -68,6 +68,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Childlike sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.ChildlikeVx67.json
 
+Package: io.github.sutuplus.MationVx67Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.mationvx67se_1.0_iphoneos-arm.deb
+Size: 1811064
+MD5sum: 4de4e2befa525a5d14bb5fd1591edb04
+SHA1: 194cf6bfc76a23937eaf6529259c7681b3976cba
+SHA256: 08930e6494e005760579adc6795b0cd90759843483e94bb63a40ac40d9b226ac
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Mation263 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.MationVx67Se.json
+
 Package: io.github.sutuplus.MissTheme
 Version: 2.0
 Architecture: iphoneos-arm
@@ -275,16 +293,16 @@ Author: Carby(公众号:苏兔)
 Name: undecimus工具3.2.1界面简体汉化包
 
 Package: io.github.undecimus321.cn2
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 100
 Depends: mobilesubstrate
-Filename: debs/io.github.undecimus321.cn2_1.0_iphoneos-arm.deb
-Size: 27358
-MD5sum: 75e79d8cc58c69c1bd4b66d216ea9515
-SHA1: 898c3d9096faef2b048377fa947d4c335447c2a9
-SHA256: d044f94da142819fa00e1976da2244d245b13884db756d48a3dbd2e2fd73bdd4
+Filename: debs/io.github.undecimus321.cn2_2.0_iphoneos-arm.deb
+Size: 27396
+MD5sum: 5bbbffef097bcb9e7846750581fa59ca
+SHA1: 08bf10871f93c28efb2ea9dac8d130456ea5f32b
+SHA256: 98201d21ed9b990b8b805410a4078a026f4cc96dc12cc5e1addd76c8e502a99e
 Section: Tweaks
 Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
