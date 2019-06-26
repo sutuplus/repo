@@ -117,6 +117,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>修复素材问题。</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
