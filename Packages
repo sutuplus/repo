@@ -69,16 +69,16 @@ Name: Childlike sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.ChildlikeVx67.json
 
 Package: io.github.sutuplus.MationVx67Se
-Version: 3.0
+Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.mationvx67se_3.0_iphoneos-arm.deb
-Size: 1778950
-MD5sum: 1e7648356cb1d003e0cca37ff27ec5dc
-SHA1: ff9e41915694b38bb3d2dd58718af0d21b9010ef
-SHA256: 91857dd07a40e1128c9863d6ef5599bc653c1215c34916403f854a323a91557c
+Filename: debs/io.github.sutuplus.mationvx67se_4.0_iphoneos-arm.deb
+Size: 1779088
+MD5sum: fa8ff848d2288a9a36e20534c503d6be
+SHA1: 0eafd7d55e2126b277453de7330a983478b2acc8
+SHA256: 24214591a58320672b8c662cb656f927b7417915a592d88d4612511eb94257d7
 Section: WechatTheme
 Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
