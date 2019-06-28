@@ -75,16 +75,16 @@ Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.mationvx67se_4.0_iphoneos-arm.deb
-Size: 1779088
-MD5sum: fa8ff848d2288a9a36e20534c503d6be
-SHA1: 0eafd7d55e2126b277453de7330a983478b2acc8
-SHA256: 24214591a58320672b8c662cb656f927b7417915a592d88d4612511eb94257d7
+Size: 1779004
+MD5sum: 83590fbc6bd34fd6c74c7d24ce102665
+SHA1: 714d364a9ca954ca0900bd49c65ae41148224b74
+SHA256: d1cb001b3f0399209725c5fe933ae5a4a0315ac508ff61d4353f61d1961435b6
 Section: WechatTheme
 Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Mation263 sutuplus微信主题
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchBoxNewVx67.json
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.MationVx67Se.json
 
 Package: io.github.sutuplus.MissTheme
 Version: 2.0
