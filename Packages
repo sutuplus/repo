@@ -158,6 +158,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Sketch New 微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchTheme.json
 
+Package: io.github.sutuplus.SweetloveYLSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.sweetloveylse_1.0_iphoneos-arm.deb
+Size: 6882918
+MD5sum: 910e0567b870bf0cd33e4d0b8c4d26c7
+SHA1: 720254620e3880c6f8d8d7abacec16ee3778b666
+SHA256: d8134287b000ab4b84461c77735fd3fec2e6ffc4d4b0bbecdf71d753859d2924
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 甜甜的说一口你说的爱我 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SweetloveYLSe.json
+
 Package: io.github.sutuplus.TalksVx67
 Version: 2.0
 Architecture: iphoneos-arm
