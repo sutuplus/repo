@@ -87,16 +87,16 @@ Name: Miss sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.MissTheme.json
 
 Package: io.github.sutuplus.PokemonVx67Se
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.pokemonvx67se_1.0_iphoneos-arm.deb
-Size: 2634328
-MD5sum: aaaa1def68541dcf43da2e8d217dafc5
-SHA1: fa9344d0c0255edc022a4e28c499612ec83a255a
-SHA256: f9cac2351bf87fa098967f1849ed74f2f388da8f7e1ddf2b0288aa88c0706519
+Filename: debs/io.github.sutuplus.pokemonvx67se_1.1_iphoneos-arm.deb
+Size: 2634544
+MD5sum: d71eec56920010b5cd61d9db880f4133
+SHA1: 96b5088b89e0ccb255a4a7b933a3574a66f56b4c
+SHA256: df897038da7b8a8445bcc2171accf45fbfcb0a2ee75c073954575f83d8da5bce
 Section: WechatTheme
 Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
