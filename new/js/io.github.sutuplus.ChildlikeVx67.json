@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS9 - 12.1.2",
+                    "text": "iOS9 - 12.4",
                     "title": "支持系统"
                 },
                 {
@@ -123,7 +123,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Childlike主题,仅用于2.6.0+苏兔PLUS</li></ul>",
+                    "markdown": "<ul>\n<li>Childlike主题,仅用于2.6.3+苏兔PLUS</li></ul>",
                     "useRawFormat": true
                 }
             ]
