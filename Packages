@@ -50,6 +50,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Childlike sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.ChildlikeVx67.json
 
+Package: io.github.sutuplus.MOGUmelodySe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.mogumelodyse_1.0_iphoneos-arm.deb
+Size: 16056586
+MD5sum: f6510742b03ec07b8a994d686df5eb2a
+SHA1: 68e67d0a6b905a11951190201ae6ba049ee0ede7
+SHA256: 5f38050130f713f1f2f682fb1f3a8f44ad899749c68c8315de09218567a93df5
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 小蘑菇的melody sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.MOGUmelodySe.json
+
 Package: io.github.sutuplus.MationVx67Se
 Version: 4.0
 Architecture: iphoneos-arm
@@ -193,6 +211,24 @@ Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Talks sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.TalksVx67.json
+
+Package: io.github.sutuplus.minimalistSE
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.minimalistse_1.0_iphoneos-arm.deb
+Size: 1941858
+MD5sum: 8a7de3971267bbc43f65aeb420492067
+SHA1: 2e27902301180df3b37bd80435e38e86a1c29a50
+SHA256: ee7970158128efa262f661125875d035975f5b6e23f6a85967d1c45fd777439f
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 极简白X sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.minimalistSE.json
 
 Package: io.github.sutuplus.release
 Version: 2.6.5
