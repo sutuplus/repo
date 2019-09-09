@@ -230,6 +230,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: 极简白X sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.minimalistSE.json
 
+Package: io.github.sutuplus.obviousVx67Se
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.obviousvx67se_2.0_iphoneos-arm.deb
+Size: 5082718
+MD5sum: 9f7fccb64e40fce28315abefbb2cfe07
+SHA1: 9007bf97c075899f92a889cb9d2fb7a430e6ce56
+SHA256: 3b24eda6495a74586457fbf7f7f37562abc1354e9eb597da8204a326251359d8
+Section: WechatTheme
+Description: 该直装包需配合苏兔PLUS 2.6.3 或以上版本使用「主题放置在新路径/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 简2.0 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.obviousVx67Se.json
+
 Package: io.github.sutuplus.release
 Version: 2.6.5
 Architecture: iphoneos-arm
