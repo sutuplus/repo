@@ -212,6 +212,60 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Talks sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.TalksVx67.json
 
+Package: io.github.sutuplus.VenomChat1Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.venomchat1se_1.0_iphoneos-arm.deb
+Size: 4034336
+MD5sum: 7cc17891095adf1e5407815c33f1708a
+SHA1: f61f8aec5c72cd4831dbccd1bb27cc3017dc36b8
+SHA256: f9e0829ffa5f33771d88c11618b84d012bd8d076ad93f9c02f1786233eb9ee3e
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Venom一号气泡 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.VenomChat1Se.json
+
+Package: io.github.sutuplus.VenomChat2Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.venomchat2se_1.0_iphoneos-arm.deb
+Size: 7875974
+MD5sum: 3035cbab752d03cbb5b3de6fadd668bf
+SHA1: 9ae855d947f837019fb1e9fa2a35ddf8afaa55db
+SHA256: 0a56b84287d11f9d962f8f914386bf288c911701b305192082ca719af2e5c6af
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Venom二号气泡 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.VenomChat2Se.json
+
+Package: io.github.sutuplus.VenomSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.venomse_1.0_iphoneos-arm.deb
+Size: 3980694
+MD5sum: 5bb75765ecda778ea0c3ee4c3463e6c3
+SHA1: a5b6ff0542b3ee19309f3479c2eb7c2249cdb1a8
+SHA256: 5b1c2115c68110d152cae5b4dc48126a6357aab6f064affb37ae02ab08b95ab5
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Venom原版 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.VenomSe.json
+
 Package: io.github.sutuplus.minimalistSE
 Version: 1.0
 Architecture: iphoneos-arm
