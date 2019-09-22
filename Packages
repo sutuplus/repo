@@ -1,3 +1,19 @@
+Package: cn.ichitaso.powerselector11.sutuplus
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/cn.ichitaso.powerselector11.sutuplus_1.2.1_iphoneos-arm.deb
+Size: 176576
+MD5sum: 0aec14f26ff073c4db06cf413741a803
+SHA1: cd715e5ab1e9572a8e5a0ee50e29000b8f4c7987
+SHA256: b6d8e7a5cbe62f6f0b1510e2a1e5fc4c56b73dd0c17f94f86b462a996e0c02d7
+Section: Tweaks
+Description: PowerSelector较完整汉化版，转载请注明出处。
+Author: Carby(公众号:苏兔)
+Name: PowerSelector控制中心开关插件(汉化不支持A12)
+
 Package: io.github.fixnetwork
 Version: 1.0
 Architecture: iphoneos-arm
@@ -139,6 +155,24 @@ Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Puzzle sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.PuzzleVX67.json
+
+Package: io.github.sutuplus.SailarMoonSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.sailarmoonse_1.0_iphoneos-arm.deb
+Size: 1808
+MD5sum: 2c72255c10b7a560e5fa3cf9f4381746
+SHA1: 574c70b6be919f7304342fe9a9cc933b6200a7b7
+SHA256: 54607b5922e59eeef5c5fc7a180ca25d620e2b1046eb5b4c08c4cfd459c01131
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: SailarMoon sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SailarMoonSe.json
 
 Package: io.github.sutuplus.SketchBoxNewVx67
 Version: 1.0
