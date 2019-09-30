@@ -354,6 +354,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
 
+Package: io.github.sutuplus.vinylVxThemeSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.vinylvxthemese_1.0_iphoneos-arm.deb
+Size: 1073190
+MD5sum: 18c9acf75464a8a3664509c05b68550d
+SHA1: ea0f8df1f004b95249f4e2043dd2d016f3001be4
+SHA256: 09656ff17fc35d2823de7223d64978b291f183b9ef033f8f3334e2452eab6d48
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: vinyl sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.vinylVxThemeSe.json
+
 Package: io.github.sutuplus.whiteBearVx67
 Version: 1.0
 Architecture: iphoneos-arm
