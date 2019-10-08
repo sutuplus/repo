@@ -14,6 +14,22 @@ Description: PowerSelector较完整汉化版，转载请注明出处。
 Author: Carby(公众号:苏兔)
 Name: PowerSelector控制中心开关插件(汉化不支持A12)
 
+Package: cn.nepeta.selector.sutuplus
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 320
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: debs/cn.nepeta.selector.sutuplus_0.1.2_iphoneos-arm.deb
+Size: 41302
+MD5sum: d259bcb8ad5ffbf1c86a9cb0ddad7d3d
+SHA1: d5ecfd61125ba1a65e4db7cffb6bc6e032ac6e3b
+SHA256: 94647879b100d60f9ca50bcf357319736094831ec9e7955d6ce5b48c1c9bc122
+Section: Tweaks
+Description: Selector完整汉化版本，转载请注明出处
+Author: Carby(公众号:苏兔)
+Name: Selector快捷翻译搜索插件(汉化版)
+
 Package: io.github.fixnetwork
 Version: 1.0
 Architecture: iphoneos-arm
