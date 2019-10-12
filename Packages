@@ -534,3 +534,35 @@ Description: 纯净界面汉化版
 Author: Carby(公众号:苏兔)
 Name: undecimus工具3.3.0界面繁体汉化包
 
+Package: io.github.undecimus370.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: debs/io.github.undecimus370.cn_1.0_iphoneos-arm.deb
+Size: 35442
+MD5sum: 5dc7f48b36b6564a019f6fbd39a8199c
+SHA1: 588505af8e8a7846cf410d9941f98212fcf6e7bf
+SHA256: c7a1a61b622daacebcf082cd2708ae1876d357a226df78606e3c9d0fced31307
+Section: Tweaks
+Description: 纯净汉化版
+Author: Carby(公众号:苏兔)
+Name: undecimus工具3.3.0-3.7.0简体汉化包
+
+Package: io.github.undecimus370.cn2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: debs/io.github.undecimus370.cn2_1.0_iphoneos-arm.deb
+Size: 34800
+MD5sum: 21b803810a1fdb141a5507b511edbda0
+SHA1: 1c484b24ff86757dc6e668c04ce45523faeb9c2b
+SHA256: 71d42cc0be276cca4e1f1edc4266d415df2423f32b942054fb380823bddccf0d
+Section: Tweaks
+Description: 界面汉化版
+Author: Carby(公众号:苏兔)
+Name: undecimus工具3.3.0-3.7.0繁体汉化包
+
