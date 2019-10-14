@@ -30,6 +30,22 @@ Description: Selector完整汉化版本，转载请注明出处
 Author: Carby(公众号:苏兔)
 Name: Selector快捷翻译搜索插件(汉化版)
 
+Package: io.github.ChargeAnimations.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.chargeanimations.cn_1.0_iphoneos-arm.deb
+Size: 1510
+MD5sum: 2872cdef012ded55407a58c7ca7db28e
+SHA1: ed987ac6324dd419c5d0b53e67fc4c640073eac5
+SHA256: 349555c9e2898d33a2d28e45444f35aa633c480feb11a841911e3912a4b668c2
+Section: Tweaks
+Description: 纯净汉化版
+Author: Carby(公众号:苏兔)
+Name: ChargeAnimations汉化包
+
 Package: io.github.fixnetwork
 Version: 1.0
 Architecture: iphoneos-arm
