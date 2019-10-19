@@ -46,6 +46,22 @@ Description: 纯净汉化版
 Author: Carby(公众号:苏兔)
 Name: ChargeAnimations汉化包
 
+Package: io.github.Gif2Ani.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.gif2ani.cn_1.0_iphoneos-arm.deb
+Size: 3424
+MD5sum: 8296717cb47c337d4f60fb9001c0a11c
+SHA1: ad44bccca277ad85e2c66a38e29969ae5e5c95ad
+SHA256: 981d433ff041bcbcfec9235389a1c244cf30bcdb37556955a6bdd4c28b60d833
+Section: Tweaks
+Description: 纯净汉化版
+Author: Carby(公众号:苏兔)
+Name: Gif2Ani汉化包
+
 Package: io.github.fixnetwork
 Version: 1.0
 Architecture: iphoneos-arm
