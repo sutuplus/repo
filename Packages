@@ -53,10 +53,10 @@ Maintainer: Carby
 Installed-Size: 1
 Depends: mobilesubstrate
 Filename: debs/io.github.gif2ani.cn_1.0_iphoneos-arm.deb
-Size: 3424
-MD5sum: 8296717cb47c337d4f60fb9001c0a11c
-SHA1: ad44bccca277ad85e2c66a38e29969ae5e5c95ad
-SHA256: 981d433ff041bcbcfec9235389a1c244cf30bcdb37556955a6bdd4c28b60d833
+Size: 2134
+MD5sum: 9c169f364614addd9f0f310dd9220452
+SHA1: a530c47c5201a1a2c6bc2dddf2b8280582532b78
+SHA256: f28cf00fc6dd68e6e987286607039cf0340e1ce794214bff99b488133a3b012d
 Section: Tweaks
 Description: 纯净汉化版
 Author: Carby(公众号:苏兔)
