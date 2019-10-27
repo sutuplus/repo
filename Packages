@@ -258,6 +258,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Sketch New 微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SketchTheme.json
 
+Package: io.github.sutuplus.SsTravelDiarySe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.sstraveldiaryse_1.0_iphoneos-arm.deb
+Size: 23386712
+MD5sum: 8017fcd35ad7b4bd0b9024d4b9481c55
+SHA1: b5e61315fa7962e97d93b41113e3af5da1030f2d
+SHA256: a343189dcce28a6cde30c8a9f6322a933511aa55d66d85e9e599f2bb1c06c2d3
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 喵咪旅行日记 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.SsTravelDiarySe.json
+
 Package: io.github.sutuplus.SweetloveYLSe
 Version: 1.0
 Architecture: iphoneos-arm
