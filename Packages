@@ -475,16 +475,16 @@ Name: 简2.0 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.obviousVx67Se.json
 
 Package: io.github.sutuplus.release
-Version: 2.6.8
+Version: 2.7.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.6.8_iphoneos-arm.deb
-Size: 330414
-MD5sum: 40f01efbadb87c1b53d4929f4c91d4ff
-SHA1: b9fcaa41fd5fafe9762d5015e2e3869578d29a9c
-SHA256: 340f86a5f85e1069c660b8acf4348d2d676e175a03220ad0b29fe982ef0211e6
+Filename: debs/io.github.sutuplus.release_2.7.0_iphoneos-arm.deb
+Size: 333296
+MD5sum: df6ecc2255942b072668ff3b0be201fc
+SHA1: 87b2ac5d86b12252a5b62e1ebdb2ccc509fa3b15
+SHA256: be6ef33b9bd8503fa286b3a37bedc2d9b5a50ab8d80c0e00ecb8f69754a6630d
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
