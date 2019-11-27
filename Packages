@@ -373,15 +373,15 @@ Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.darkmodetrial_1.2_iphoneos-arm.deb
-Size: 965804
-MD5sum: 378cacf7397b1554db37eb015ea42935
-SHA1: 7429fd86b6d7df0fe91a876dae155aa8a09ecaaf
-SHA256: 3614b1dfb4dcf62bd1c38ff53954b1a2d15a0abb50dc3337cd9e34dc0244a9be
+Size: 965802
+MD5sum: 8cdba70beb429e2cf053099512f77f19
+SHA1: b14bf781e9fc3a8b271a94e80cf2bfe50792701c
+SHA256: e09f03785e5a4c93cabd60c5e1214930db938e542a2cfde66640c462dd093341
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: Name: DarkMode Trial微信暗黑主题体验 sutuplus微信主题
+Name: DarkMode Trial微信暗黑主题体验 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.darkmodetrial.json
 
 Package: io.github.sutuplus.dessertse
