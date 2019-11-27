@@ -367,16 +367,16 @@ Name: Venom原版 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.VenomSe.json
 
 Package: io.github.sutuplus.darkmodetrial
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.darkmodetrial_1.2_iphoneos-arm.deb
+Filename: debs/io.github.sutuplus.darkmodetrial_1.3_iphoneos-arm.deb
 Size: 965802
-MD5sum: 8cdba70beb429e2cf053099512f77f19
-SHA1: b14bf781e9fc3a8b271a94e80cf2bfe50792701c
-SHA256: e09f03785e5a4c93cabd60c5e1214930db938e542a2cfde66640c462dd093341
+MD5sum: 44b05eba08af09497f1520ec3f9a1d8d
+SHA1: b98e936b06b5d1d011490e8046671bbbdaacb9a0
+SHA256: c68a24b05f9f5ce838866d8be09b049fc9bd8ac5342602308cbb61798449b74c
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
