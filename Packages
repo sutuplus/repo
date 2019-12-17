@@ -366,6 +366,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: Venom原版 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.VenomSe.json
 
+Package: io.github.sutuplus.blacklineSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.blacklinese_1.0_iphoneos-arm.deb
+Size: 558944
+MD5sum: a65e11f3749419d9b27847fb9f747e07
+SHA1: 16306832e0ff3be1bf7f144c0b1801d0d68b0d47
+SHA256: aacde2dbd716160d6c2b15d8ac81ddea5720e76541878f7154cde8ebefbbfe73
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 彩线-黑 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.blacklineSe.json
+
 Package: io.github.sutuplus.darkmodetrial
 Version: 1.3
 Architecture: iphoneos-arm
@@ -402,6 +420,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: 甜点 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.dessertse.json
 
+Package: io.github.sutuplus.ermiaorabbit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.ermiaorabbit_1.0_iphoneos-arm.deb
+Size: 6661262
+MD5sum: dd76cfb986354a4575db27543dee8267
+SHA1: d3c28a88dee523df20fedf63dfa781384c4a20b4
+SHA256: e39652a15dbe0433cc477a4c9536c493afdb52d8c7c48dd13caf8ce7ce2b6d04
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 灰白兔 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.ermiaorabbit.json
+
 Package: io.github.sutuplus.innocenceVxSe
 Version: 2.0
 Architecture: iphoneos-arm
@@ -419,6 +455,42 @@ Author: 公众号：苏兔（bysutu）
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: innocence灰2.0 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.innocenceVxSe.json
+
+Package: io.github.sutuplus.linexse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.linexse_1.0_iphoneos-arm.deb
+Size: 1993936
+MD5sum: 504666d29ed9af9e53d987130f4fc39e
+SHA1: fd41cdbc19739f90610cbcbecad82bb5910c1bea
+SHA256: 0d3007336af54c50881b1ef8b474b522288cab50e588f1e2750e67cbe6415de4
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Line-X sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.linexse.json
+
+Package: io.github.sutuplus.lostnnewse
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.lostnnewse_2.1_iphoneos-arm.deb
+Size: 1995562
+MD5sum: 91322ee9a295a4067f27aad01a3ad083
+SHA1: 76a5d9e2b2e78b4520159302f74608ed5200336d
+SHA256: ec8bd408000791c4c997f56a2e4d7755845ebc62083a289f0381983cf838ec1b
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Lost修改版 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.lostnnewse.json
 
 Package: io.github.sutuplus.minimalistSE
 Version: 1.0
@@ -492,6 +564,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: 简2.0 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.obviousVx67Se.json
 
+Package: io.github.sutuplus.randomchat1se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.randomchat1se_1.0_iphoneos-arm.deb
+Size: 685586
+MD5sum: 958cb608ac387f99b2d2276766fdd3b7
+SHA1: 30c375bbb9ba42a4cf300e7bfff5db7e167e3f90
+SHA256: d1f3ee4232fb1d2f637d4006ee8fb0967cb19d6bfe40e677c1cce81038bcc1fa
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 灰白兔 sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.randomchat1se.json
+
 Package: io.github.sutuplus.release
 Version: 2.7.0
 Architecture: iphoneos-arm
@@ -509,6 +599,24 @@ Author: Carby(公众号:苏兔)
 Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
+
+Package: io.github.sutuplus.starse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.starse_1.0_iphoneos-arm.deb
+Size: 1027646
+MD5sum: 6017c8cf56b30ba777aed4fda375e015
+SHA1: 1ac92114b8ce171de7e49e996185f83b9a73ad93
+SHA256: 1dc96dbc11f9bf2ecf46a68d0f31f3eb96d7e439c89446079823c2b5c77c64fc
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 星屑V sutuplus微信主题
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.starse.json
 
 Package: io.github.sutuplus.vinylVxThemeSe
 Version: 1.0
