@@ -205,16 +205,16 @@ Name: Puzzle sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.PuzzleVX67.json
 
 Package: io.github.sutuplus.SailarMoonSe
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.sailarmoonse_1.0_iphoneos-arm.deb
-Size: 1808
-MD5sum: 2c72255c10b7a560e5fa3cf9f4381746
-SHA1: 574c70b6be919f7304342fe9a9cc933b6200a7b7
-SHA256: 54607b5922e59eeef5c5fc7a180ca25d620e2b1046eb5b4c08c4cfd459c01131
+Filename: debs/io.github.sutuplus.sailarmoonse_1.1_iphoneos-arm.deb
+Size: 42708742
+MD5sum: f59f96973019b210ca8db21841bd8df3
+SHA1: 08272b66afe8d09671193b6e1eda26b1c56295cc
+SHA256: 2c993520318c8646530f9e98fef82639720d0f0f820357cb195dad2da2aaf03c
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
@@ -439,16 +439,16 @@ Name: 极简白X sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.minimalistSE.json
 
 Package: io.github.sutuplus.myhappybearse
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.myhappybearse_1.0_iphoneos-arm.deb
-Size: 7789038
-MD5sum: a2f44478a5a96357e4c7d5e3b6355e76
-SHA1: 42ff62c3f238d6549876cdb256cf14e3c49e5f25
-SHA256: 03bdf8fc60aa47d56d1d963c06f713fb09dd2e8b20879d528147e7c84fde52ab
+Filename: debs/io.github.sutuplus.myhappybearse_1.1_iphoneos-arm.deb
+Size: 7789040
+MD5sum: fadb4fb27caf04be2ae91361677161c2
+SHA1: b6fa595232555822d304e19c38f13fa9ac1c1800
+SHA256: 92d0d746336cf5eb85835969b7b0fc37e359143a27c17f652936ca92fe0fdabd
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
@@ -457,16 +457,16 @@ Name: 我和我的快乐小熊 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.myhappybearse.json
 
 Package: io.github.sutuplus.nsCatSe
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.nscatse_1.0_iphoneos-arm.deb
-Size: 15950948
-MD5sum: 93c09546d3f1c3955a96a130e9c58a1e
-SHA1: e9fb640d3f32c5ccfa6ccb336862eccc0f937d1e
-SHA256: 13cb4b05de9443736f9f8dd94230a48349a04668854cd16fc66f9fdad8cd57a7
+Filename: debs/io.github.sutuplus.nscatse_1.1_iphoneos-arm.deb
+Size: 15950950
+MD5sum: 6e8a527f9b38d8638b48060fd51b1a58
+SHA1: 7b747a590567b192dda0583ab5d65d1a01d6d302
+SHA256: 1ad248f2f6522d7418f8449d18919af0a46ef03b504f5d595e9fd999933d3c4a
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
