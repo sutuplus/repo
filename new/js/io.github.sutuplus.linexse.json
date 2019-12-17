@@ -16,7 +16,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "🇨🇳 获取更多版本主题，DIY素材，美化教程，请前往公众号：苏兔 🇨🇳\n<p style=\"font-size:10pt;\">这是我最喜欢的一款主题，歪歪扭扭的手绘风，黑白配色。A12越狱一出，我第一个着手翻新的就是它了，一直以来我用的最多的也是它了。 </p>\n<p>\n</p><p style=\"font-size:10pt;\"><strong>使用教程</strong></p>\n<p style=\"font-size:10pt;\">关注公众号：苏兔，回复关键词“插件”可查看配合苏兔PLUS美化微信的完整教程「有图/文/视频各种教程」</p>",
+                    "markdown": "🇨🇳 获取更多版本主题，DIY素材，美化教程，请前往公众号：苏兔 🇨🇳\n<p style=\"font-size:10pt;\">line x 主题</p>\n<p>\n</p><p style=\"font-size:10pt;\">该直装包需配合苏兔PLUS 2.7.0 以上版本使用「主题放置在新路径/Library/CarbyTheme/里」</p><p style=\"font-size:10pt;\"><strong>使用教程</strong></p>\n<p style=\"font-size:10pt;\">关注公众号：苏兔，回复关键词“插件”可查看配合苏兔PLUS美化微信的完整教程「有图/文/视频各种教程」</p>",
                     "useRawFormat": true
                 },
                 {
@@ -35,19 +35,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "屏幕截图1",
-                            "url": "http://sutuplus.github.io/repo/new/pic/sketch2.png"
+                            "url": "http://sutuplus.github.io/repo/new/pic/linexse1.png"
                         },
                         {
                             "accessibilityText": "屏幕截图2",
-                            "url": "http://sutuplus.github.io/repo/new/pic/sketch3.png"
+                            "url": "http://sutuplus.github.io/repo/new/pic/linexse2.png"
                         },
                         {
                             "accessibilityText": "屏幕截图3",
-                            "url": "http://sutuplus.github.io/repo/new/pic/sketch4.png"
+                            "url": "http://sutuplus.github.io/repo/new/pic/linexse3.png"
                         },
                         {
                             "accessibilityText": "屏幕截图4",
-                            "url": "http://sutuplus.github.io/repo/new/pic/sketch5.png"
+                            "url": "http://sutuplus.github.io/repo/new/pic/linexse4.png"
                         }
                     ]
                 },
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2019年5月3日",
+                    "text": "2019年12月17日",
                     "title": "更新日期"
                 },
                 {
@@ -123,7 +123,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>补充了部分微信7.+版本的素材</li>\n<li>修复了使用微信6.+版本时，tabbar背景镂空的问题</li><li>补充了部分新找到位置的素材美化</li></ul>",
+                    "markdown": "<ul>\n<li>line x 主题,仅用于2.7.0+苏兔PLUS</li></ul>",
                     "useRawFormat": true
                 }
             ]
