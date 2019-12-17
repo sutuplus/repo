@@ -445,10 +445,10 @@ Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.myhappybearse_1.0_iphoneos-arm.deb
-Size: 7851950
-MD5sum: 9f77dda5db56337b5e333d35fec56dad
-SHA1: a114819ac23cb26a5f0e856e4d931d832db8c6d1
-SHA256: df99c268aa305c289405e41748b0805f223defd480ae0e284a484987d5062b10
+Size: 7789038
+MD5sum: a2f44478a5a96357e4c7d5e3b6355e76
+SHA1: 42ff62c3f238d6549876cdb256cf14e3c49e5f25
+SHA256: 03bdf8fc60aa47d56d1d963c06f713fb09dd2e8b20879d528147e7c84fde52ab
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
@@ -463,10 +463,10 @@ Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
 Filename: debs/io.github.sutuplus.nscatse_1.0_iphoneos-arm.deb
-Size: 16279736
-MD5sum: b9b473de8da45090b24d5c19b82638ce
-SHA1: f1260bb4674709efea9812b62473632e458ea6df
-SHA256: e862fe78024969d0fb4dcb1275cc2164cb010e31f064f2146cd2f598233b5aaa
+Size: 15950948
+MD5sum: 93c09546d3f1c3955a96a130e9c58a1e
+SHA1: e9fb640d3f32c5ccfa6ccb336862eccc0f937d1e
+SHA256: 13cb4b05de9443736f9f8dd94230a48349a04668854cd16fc66f9fdad8cd57a7
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
