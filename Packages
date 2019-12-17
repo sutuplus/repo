@@ -565,16 +565,16 @@ Name: 简2.0 sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.obviousVx67Se.json
 
 Package: io.github.sutuplus.randomchat1se
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.randomchat1se_1.1_iphoneos-arm.deb
-Size: 685580
-MD5sum: 9ab5fe3c206cdd6abf19cb0b9f2443b8
-SHA1: 3c727646411ba19dd46582dc8a66a3e9c6c76ffb
-SHA256: ca82fbf494d6718e9907abd761207b1ca8b16f0b9881aa59784e2be8a0ea6f51
+Filename: debs/io.github.sutuplus.randomchat1se_1.2_iphoneos-arm.deb
+Size: 685566
+MD5sum: 3678480d51cb9584dbbc7593c0a3c290
+SHA1: 68c54d810850af24c56577d2bce0f91945e94f2b
+SHA256: 425a39cc6bd7b91215e0b99b96e71f1a67cf0d3e2dcdead681e6d454bcc45b13
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。<br> 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
