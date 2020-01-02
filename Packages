@@ -583,16 +583,16 @@ Name: Random sutuplus微信主题
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.randomchat1se.json
 
 Package: io.github.sutuplus.release
-Version: 2.7.0
+Version: 2.8.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.7.0_iphoneos-arm.deb
-Size: 333296
-MD5sum: df6ecc2255942b072668ff3b0be201fc
-SHA1: 87b2ac5d86b12252a5b62e1ebdb2ccc509fa3b15
-SHA256: be6ef33b9bd8503fa286b3a37bedc2d9b5a50ab8d80c0e00ecb8f69754a6630d
+Filename: debs/io.github.sutuplus.release_2.8.0_iphoneos-arm.deb
+Size: 338970
+MD5sum: 237beea61896973b513bdc15ca17960c
+SHA1: be454047e0dbfe5f9449d9b42fae57a73b2a0a49
+SHA256: 79a7677ef45c1a27cc0bedc0e33870a3aaeff47b331e0c9473c4249113dcdadc
 Section: Tweaks
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
