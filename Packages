@@ -456,6 +456,42 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: /简约-和风主题/
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708hefengse.json
 
+Package: io.github.sutuplus.708huibairabbit2Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.708huibairabbit2se_1.0_iphoneos-arm.deb
+Size: 6832514
+MD5sum: e3e7aa66f0549c40674465984342ff7a
+SHA1: dfffe6e82961c3ebd560fd2b4c58e13b32e254e9
+SHA256: 78f7e700e1e06fa19e4afc8015819a60a9457a5ac2e56842aa7b0fe51ade5b0b
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: /略简约-灰白兔主题二号气泡版/
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708huibairabbit2Se.json
+
+Package: io.github.sutuplus.708huibairabbit3Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.708huibairabbit3se_1.0_iphoneos-arm.deb
+Size: 7062508
+MD5sum: 00e15f88509253b031f890043ccfc9d7
+SHA1: 5cd3eb215527e5a9b3d3ed3d8baa21fd6376791c
+SHA256: 56022b1e4169addf71fa6583f7e93da8698f56af6b568d2a40ec5f9463f88c83
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: /略简约-灰白兔主题三号气泡版/
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708huibairabbit3Se.json
+
 Package: io.github.sutuplus.708huibairabbitSe
 Version: 1.0
 Architecture: iphoneos-arm
@@ -582,6 +618,24 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: /简-简2.0主题/
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708obviousVx67Se.json
 
+Package: io.github.sutuplus.708randomchat1se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.github.sutuplus.708randomchat1se_1.0_iphoneos-arm.deb
+Size: 685334
+MD5sum: 9801bbeb9fe9f880bdcd84923f5291cb
+SHA1: e998c5de6e664971b4abf917f76d84e3da670c06
+SHA256: e1522abc62251bcb223cfa1ecb3246c93ae536ff6fb55f0325b21ac46f5a37cd
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: /简约-random主题/
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708randomchat1se.json
+
 Package: io.github.sutuplus.708starse
 Version: 1.0
 Architecture: iphoneos-arm
@@ -673,19 +727,20 @@ Name: /略简约-星际兔主题/
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708xingjirabbitse.json
 
 Package: io.github.sutuplus.release
-Version: 2.8.2
+Version: 2.8.3
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.8.2_iphoneos-arm.deb
-Size: 341408
-MD5sum: 833edf1259624bb85d81b2ccd33e3117
-SHA1: f442b49a7019058b58c01e30295570d908ed2647
-SHA256: fb802fc276ddc9d28dbf0fb099d3cf1dfb1080ccd3e53b33c2fdb41a5e17f296
+Filename: debs/io.github.sutuplus.release_2.8.3_iphoneos-arm.deb
+Size: 341260
+MD5sum: bc8a71d996ef52e8da98fb7944879ba4
+SHA1: a542afff99207479d6f4e7e7406d1638cb13e13d
+SHA256: cd1d10d0f235df06a9888ad80dcabc25da8a5e73a2b3de6f0f2b135acade8402
 Section: Tweaks
-Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Description: 一款VX美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
+Depiction: https://sutuplus.github.io/repo/new/js/description0.html
 Icon: http://sutuplus.github.io/repo/new/icon/icon.png
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.release.json
