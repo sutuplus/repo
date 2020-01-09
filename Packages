@@ -78,654 +78,6 @@ Description: 修复国行设备越狱后程序无网络权限的问题,需重启
 Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
-Package: io.github.sutuplus.708BluelakeVx67Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708bluelakevx67se_1.0_iphoneos-arm.deb
-Size: 1500674
-MD5sum: 44a436ec2340f7a5c92d871e521c3331
-SHA1: 0e86bbd7527d5f8a8bdf2239a53fe85b3e9d7a41
-SHA256: 4dcd68549be49f051e4a158a6b02f2246ae9f5e98d76af56ad3c23dc3494df0a
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-湖蓝主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708BluelakeVx67Se.json
-
-Package: io.github.sutuplus.708ChildlikeVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708childlikevx67_1.0_iphoneos-arm.deb
-Size: 1390264
-MD5sum: d9cf4cab8460e3ccc6b9baa06c21d482
-SHA1: b1264ace7945d851c25a0b47689c42238d051934
-SHA256: f142d82db3bd289d68163bf5de66203b18eeb46322e662ed7261377bab80ff05
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-Childlike主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708ChildlikeVx67.json
-
-Package: io.github.sutuplus.708LineThemeSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708linethemese_1.0_iphoneos-arm.deb
-Size: 916362
-MD5sum: d24956829b010783775686223924dd0b
-SHA1: f7557f6440307e08516c846f42deb3458404922b
-SHA256: 67d648db7aa37160768ab42f54dcfef9740616878901bcb0e6e86f60ca61ff99
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-线主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708LineThemeSe.json
-
-Package: io.github.sutuplus.708LineXSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708linexse_1.0_iphoneos-arm.deb
-Size: 1993482
-MD5sum: eec129377d120839b6900c93622a6944
-SHA1: 36287815535a1d54059263a6896d6e2c85d2b7c3
-SHA256: 2c70005d38ff31001984c8b22c1a703fc3f9fdd607cb899cacc667613cdb06fa
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-lineX主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708LineXSe.json
-
-Package: io.github.sutuplus.708MOGUmelodySe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708mogumelodyse_1.0_iphoneos-arm.deb
-Size: 16055866
-MD5sum: 2a0cb623ae4ac07971984540ee4598a8
-SHA1: e68350ee08b955571940f0ae4a333c623d2505a5
-SHA256: 588fa0cd31421d57345c12d367c055bd5cd0ffe9b1ae68aded34896df42742f1
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-moledy主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708MOGUmelodySe.json
-
-Package: io.github.sutuplus.708MationVx67Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708mationvx67se_1.0_iphoneos-arm.deb
-Size: 1778198
-MD5sum: ae3cba5deaa0d6cdbec2ca9904a29dbb
-SHA1: 591de6c844a074346db4ecee908eb216ed3d79bd
-SHA256: adbe89e636b38d5eaff63f640d0afc24ef89b93f000ae8e48dd0ba68a18c5dea
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-mation主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708MationVx67Se.json
-
-Package: io.github.sutuplus.708MissThemeSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708missthemese_1.0_iphoneos-arm.deb
-Size: 1294004
-MD5sum: 6075186d789d62cff46862d4cf601d92
-SHA1: 8db976a01c565503535d5e2afc2c824a0b6f39d3
-SHA256: 70b882fa691a81da6de1eb57e8cab06f966681a08c74364ee40a1a991fcb115c
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-miss主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708MissThemeSe.json
-
-Package: io.github.sutuplus.708PokemonVx67Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708pokemonvx67se_1.0_iphoneos-arm.deb
-Size: 2633916
-MD5sum: e694ecfb11f68a022adc5597eb79edbc
-SHA1: 3e35b063e89a00568c7a9dec5984a3dc130c0a6d
-SHA256: fa486914ddfd95ecaeb66a65bdb91ce78617233ec11beaca09adefd638e95f79
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-童年回忆小精灵主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708PokemonVx67Se.json
-
-Package: io.github.sutuplus.708PuzzleVX67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708puzzlevx67_1.0_iphoneos-arm.deb
-Size: 1397262
-MD5sum: fd65fae6680c08383b06ea994cdb28ff
-SHA1: 29916069ee1ef5cf67fd1759abe442b5659eae37
-SHA256: 9df5ab522c66f2ddb772cf2f01af96f7b314c29edce25431f04fa9f08793667a
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-puzzle主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708PuzzleVX67.json
-
-Package: io.github.sutuplus.708SailarMoonSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708sailarmoonse_1.0_iphoneos-arm.deb
-Size: 42708108
-MD5sum: 8a2669be4c490d53369957bc38843da9
-SHA1: 6e23c666e81314266922cdeb0d5d7a46faa98c94
-SHA256: 03a49fec5001086214908412c705b6d6f484358606c029e88a0601d60eb0284c
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-美少女战士主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708SailarMoonSe.json
-
-Package: io.github.sutuplus.708SketchVxSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708sketchvxse_1.0_iphoneos-arm.deb
-Size: 2170274
-MD5sum: 7ce5d7ae87be097988c8cd517811c534
-SHA1: 6c7f47b043d83b687a04e0413b8d0fa3104260b6
-SHA256: c0ddbfa5815bda82839120bfdd9d51f7eddcd77e480e86a5f7f7b5bb7b74b09c
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-Sketch主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708SketchVxSe.json
-
-Package: io.github.sutuplus.708SsTravelDiarySe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708sstraveldiaryse_1.0_iphoneos-arm.deb
-Size: 23386608
-MD5sum: 3bc1cd37def4ab0032f2aff603130d2d
-SHA1: 49d23352a9696ffd60cc1bb37e5569adafd87dc1
-SHA256: fe1cff0ace86319a68a2e4392e2dd8b9f6980fef2c20ce9bfdb3c3f224ecd332
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-喵咪旅行日记主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708SsTravelDiarySe.json
-
-Package: io.github.sutuplus.708SweetloveYLSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708sweetloveylse_1.0_iphoneos-arm.deb
-Size: 6882276
-MD5sum: e67f315a47433482a9eef1e2032fd86d
-SHA1: 1d72eef2d5a843ee9599bb1694edc14221589860
-SHA256: d698312563ee73d8a4678eed475bcd251a156f0ff2bc118b2c41adbe0443d979
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-甜甜的尝一口你说的爱我主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708SweetloveYLSe.json
-
-Package: io.github.sutuplus.708TalksVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708talksvx67_1.0_iphoneos-arm.deb
-Size: 1070214
-MD5sum: e643fe324c12c2c1a1140f37ee73061d
-SHA1: e70720d7d8591635d9bc4c9b82f03c8efc8bfdd7
-SHA256: 5fa4c6d87e3f4033155b33105c4f9222e08eabb98e5dcfc777e155464d1e7e55
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-talks主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708TalksVx67.json
-
-Package: io.github.sutuplus.708VenomChat1Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708venomchat1se_1.0_iphoneos-arm.deb
-Size: 4033696
-MD5sum: 0b7f6e3cd536a19b19361a01f692409d
-SHA1: 343f7629b009861c46c386e17f786e56e91d3794
-SHA256: 4916a02a4eeb08ad1afa445a82e599203b52e7b16b6bbad280b6364a192b1392
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-venom灰白主题一号气泡版本/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708VenomChat1Se.json
-
-Package: io.github.sutuplus.708VenomChat2Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708venomchat2se_1.0_iphoneos-arm.deb
-Size: 7875242
-MD5sum: 0e8c7afd0e6df7cdcf96105ba0af62b6
-SHA1: 5db85d8187eeb4e08ffbd26d554161fee53e40e8
-SHA256: b7d0a0b8bf4e930997fbe49c130b73cc1a38c49aac6bd75ff4f00f8228affb01
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-venom灰白主题二号气泡版本/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708VenomChat2Se.json
-
-Package: io.github.sutuplus.708VenomSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708venomse_1.0_iphoneos-arm.deb
-Size: 3980042
-MD5sum: 489fe40e6ae745237d635aa37b725395
-SHA1: efa6a6b89d3d3ebe42560d65b3768cfbdb5b795a
-SHA256: bbc84eccd28fdcf6094244d8c319ef8ea82c6efdba1dd62dca9d6162ce3ade71
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-venom灰白主题默认气泡版本/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708VenomSe.json
-
-Package: io.github.sutuplus.708blacklineSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708blacklinese_1.0_iphoneos-arm.deb
-Size: 558554
-MD5sum: 01cc70e5019a9387067d72fadb415a6f
-SHA1: 078e9ad0642c5c44ccc4cfcac9fb16c02215dccd
-SHA256: d3f9f77aa207e948f44a2a9e002b38e5ede542b5843ed1bb632682e99f0eef1c
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-黑线主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708blacklineSe.json
-
-Package: io.github.sutuplus.708darkmodetrial
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708darkmodetrial_1.0_iphoneos-arm.deb
-Size: 964716
-MD5sum: 42edcda41d3fe904069ecd1ad6fcfc38
-SHA1: 1bf9bd5a570cb7e2a928d2bc7207344909ea21df
-SHA256: 2a40a36812550e3ae94fec08538c8965ac024fbbfa921aa45941e878624a9fc2
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-暗黑体验主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708darkmodetrial.json
-
-Package: io.github.sutuplus.708dessertse
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708dessertse_1.0_iphoneos-arm.deb
-Size: 3402008
-MD5sum: 51298fe37e218d14b0169533a6167d98
-SHA1: 2ebe13637d9faf64afd03618e223c33355c151d1
-SHA256: b9e015fb677b77da79f9b75d02f896730f9423e4db562948eaed8fa6604b04dc
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /略简约-甜点主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708dessertse.json
-
-Package: io.github.sutuplus.708hefengse
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708hefengse_1.0_iphoneos-arm.deb
-Size: 2533050
-MD5sum: 9c4e34b18558037456b89808827e6bc3
-SHA1: d6c6fa182b42ca256b8d13862350a63e9a751c10
-SHA256: 75cdc17e833c21dbb7f29df770f850df5b7db6d95e3fa1a9319d6fddf77289a4
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-和风主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708hefengse.json
-
-Package: io.github.sutuplus.708huibairabbit2Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708huibairabbit2se_1.0_iphoneos-arm.deb
-Size: 6832514
-MD5sum: e3e7aa66f0549c40674465984342ff7a
-SHA1: dfffe6e82961c3ebd560fd2b4c58e13b32e254e9
-SHA256: 78f7e700e1e06fa19e4afc8015819a60a9457a5ac2e56842aa7b0fe51ade5b0b
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /略简约-灰白兔主题二号气泡版/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708huibairabbit2Se.json
-
-Package: io.github.sutuplus.708huibairabbit3Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708huibairabbit3se_1.0_iphoneos-arm.deb
-Size: 7062508
-MD5sum: 00e15f88509253b031f890043ccfc9d7
-SHA1: 5cd3eb215527e5a9b3d3ed3d8baa21fd6376791c
-SHA256: 56022b1e4169addf71fa6583f7e93da8698f56af6b568d2a40ec5f9463f88c83
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /略简约-灰白兔主题三号气泡版/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708huibairabbit3Se.json
-
-Package: io.github.sutuplus.708huibairabbitSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708huibairabbitse_1.0_iphoneos-arm.deb
-Size: 7035962
-MD5sum: 0403c5f9e4b74aabeec6107e8273c610
-SHA1: 783d0eaecfcbcfea6844cc66a981b1fdd63ee377
-SHA256: 2c9b3f0ba0fc8c73b88a93c2b6078cb720834565772961371024248d113095a7
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /略简约-灰白兔主题一号气泡版/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708huibairabbitSe.json
-
-Package: io.github.sutuplus.708innocenceVxSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708innocencevxse_1.0_iphoneos-arm.deb
-Size: 1343084
-MD5sum: 51435555e4bf82dcccb4c11eecc11e35
-SHA1: 0bb3523ec6fc9091a230efe1b2c97d94007d92f6
-SHA256: 16194e8d33c0f056db7d9290151bfccb2e45aa912caa073fd9c67130ab838809
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-innocence灰主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708innocenceVxSe.json
-
-Package: io.github.sutuplus.708lostNewSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708lostnewse_1.0_iphoneos-arm.deb
-Size: 1831738
-MD5sum: 3dc8c081c3cab9e9880f44f002db05b7
-SHA1: 54f00858868d4c120f0f863ad655baf780d2d621
-SHA256: e0dac2b0c466025ec67be02d0a07ea208639fbebed66df8f0fc3895cf175a99f
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-lost主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708lostNewSe.json
-
-Package: io.github.sutuplus.708minimalistSE
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708minimalistse_1.0_iphoneos-arm.deb
-Size: 1941156
-MD5sum: d1e4cd55c6087b10f30cd00827add59b
-SHA1: 10c4fbcfa49cc18883f3e201631e60efbf2f8811
-SHA256: 8435e5e495edaaa4620ccd4f41cbe03efa2656d868535d49201e9dfd082f148b
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-极简白X主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708minimalistSE.json
-
-Package: io.github.sutuplus.708myhappybearse
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708myhappybearse_1.0_iphoneos-arm.deb
-Size: 7788866
-MD5sum: 8c4f7711f00ed3688abb303556164ebb
-SHA1: 9413f792f1e4cdc89c442b4299cd0b4f8c5f40b5
-SHA256: 9f9b5e5f0deca71c3a6bc42c04345720f921e925bde37341a954362d45203ecd
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-我和我的快乐小熊主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708myhappybearse.json
-
-Package: io.github.sutuplus.708nsCatSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708nscatse_1.0_iphoneos-arm.deb
-Size: 15950934
-MD5sum: d680f0c2f8f36c4d6574510a53328db3
-SHA1: 7509cf3c4b7690cfcfe267852d785f808217026f
-SHA256: 37b272357a02f2d8a9d6a8a4f3c70eafc69ef337c17099b94e3a852dd0ac5d54
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-喵星人主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708nsCatSe.json
-
-Package: io.github.sutuplus.708obviousVx67Se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708obviousvx67se_1.0_iphoneos-arm.deb
-Size: 5082100
-MD5sum: 73c21394922110e2d18bf9c1995e83d6
-SHA1: 283255863c366ac1b63577ff0567b51e50face27
-SHA256: 0f0469618f1029cf7698facfe85234e654a2e3dbf21ff84890bf13513e4f965b
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简-简2.0主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708obviousVx67Se.json
-
-Package: io.github.sutuplus.708randomchat1se
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708randomchat1se_1.0_iphoneos-arm.deb
-Size: 685334
-MD5sum: 9801bbeb9fe9f880bdcd84923f5291cb
-SHA1: e998c5de6e664971b4abf917f76d84e3da670c06
-SHA256: e1522abc62251bcb223cfa1ecb3246c93ae536ff6fb55f0325b21ac46f5a37cd
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-random主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708randomchat1se.json
-
-Package: io.github.sutuplus.708starse
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708starse_1.0_iphoneos-arm.deb
-Size: 1027064
-MD5sum: 37e3703f9b46a1f6b9d5b9703036f825
-SHA1: c626a771bc838c8ee4b5affd574a05d7ef07f9d6
-SHA256: fe021c57cd408043e07ddecc8d3dffe28b3a4a663ace4175d38cbdd8c748ad30
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-星屑star主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708starse.json
-
-Package: io.github.sutuplus.708vinylVxThemeSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708vinylvxthemese_1.0_iphoneos-arm.deb
-Size: 1072476
-MD5sum: 5cb34c6346139ea48d42b9505587ffd6
-SHA1: 9af019d7a9f686f8966fc7deb8bf0a8d3523b714
-SHA256: 56c111660f23460e665468ef882e9e554c6834b1eab76f038eba1bcf81993ca3
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /简约-vinyl黑金主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708vinylVxThemeSe.json
-
-Package: io.github.sutuplus.708whiteBearVx67
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708whitebearvx67_1.0_iphoneos-arm.deb
-Size: 9575208
-MD5sum: dc1063020448a44929ea0b49044a06df
-SHA1: dddf8d945c89c44f0708c23c13ed3e69dac6a3d1
-SHA256: 8435c792af7119571de8d17e4d3470101b737a747ffa7d6b336539c3e0cbb9ef
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-白小熊主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708whiteBearVx67.json
-
-Package: io.github.sutuplus.708xiaoyingVXSe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708xiaoyingvxse_1.0_iphoneos-arm.deb
-Size: 27293994
-MD5sum: ed6312aab1e6e647ce27c123ee75958f
-SHA1: 3b6179ed189fb27cb508671531972ad56f3b77c6
-SHA256: 289b9d9f445e66113e58f6df4f0dc58a087541a37f71276c3eee3d40bb3a2ff2
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /可爱-小樱主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708xiaoyingVXSe.json
-
-Package: io.github.sutuplus.708xingjirabbitse
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 苏兔
-Installed-Size: 520
-Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.708xingjirabbitse_1.0_iphoneos-arm.deb
-Size: 13954118
-MD5sum: a98d569b1f43729cf45a2295a0af54fc
-SHA1: a8e1f31a0e4830f051111d3d1628ce770a2d720b
-SHA256: 2c7571f9bd9e53619aecc6534dbdae24baa048ef68b57a8496fae069655cd56e
-Section: WechatTheme
-Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br>主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br>Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
-Author: 公众号：苏兔（bysutu）
-Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: /略简约-星际兔主题/
-Sileodepiction: http://sutuplus.github.io/repo/new/js/io.github.sutuplus.708xingjirabbitse.json
-
 Package: io.github.sutuplus.release
 Version: 2.8.3
 Architecture: iphoneos-arm
@@ -904,4 +256,707 @@ Section: Tweaks
 Description: 界面汉化版
 Author: Carby(公众号:苏兔)
 Name: undecimus工具3.3.0-3.7.0繁体汉化包
+
+Package: io.sutuplus.BluelakeVx67Se
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.bluelakevx67se_3.0_iphoneos-arm.deb
+Size: 1500442
+MD5sum: 87bd44795fa929598f36806cb313b78c
+SHA1: 1e1ab0f92ba4a47861dad371ab5157900c27997b
+SHA256: baab55dfcf19169f2e55c4725fe65ce1d3fc169580877d938f2838de9115277a
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 湖蓝 - SutuPLUS简约风主题 V3.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.BluelakeVx67Se.json
+
+Package: io.sutuplus.ChildlikeVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.childlikevx67_1.0_iphoneos-arm.deb
+Size: 1390292
+MD5sum: 72ddae3ee724cfd5f91b79b04abe8f05
+SHA1: 2e22bac5fee56355633892f244ede2905ff304b8
+SHA256: 2031bdc9b115c6d0d35ef44b2c69fd92944e26d505fcb8fbb966955f5e50ee33
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Childlike - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.ChildlikeVx67.json
+
+Package: io.sutuplus.LineThemeSe
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.linethemese_2.0_iphoneos-arm.deb
+Size: 916530
+MD5sum: 9ba09ffa4c0986116b03e7112539addf
+SHA1: ca4fed8306ea0aeb10f3133691293166ab6d19a0
+SHA256: 376698e155a1011f4cdb63ddd23693fb4a5b4eda9b5b7a12da4049a1ed3bb115
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 线 - SutuPLUS简约风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.LineThemeSe.json
+
+Package: io.sutuplus.LineXEdit
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.linexedit_1.2_iphoneos-arm.deb
+Size: 2116640
+MD5sum: 3586ceae3630139f16211f215803e80b
+SHA1: 967ee18824018612d0b9d9b66ffb7b0dfef6cdd0
+SHA256: e6d034f3853a5f80ac90da90eb25d13bddc8f3476f3fe173bb4db8fe8f444c8c
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: LineX - SutuPLUS简约风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.LineXEdit.json
+
+Package: io.sutuplus.MOGUmelodySe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.mogumelodyse_1.0_iphoneos-arm.deb
+Size: 16055868
+MD5sum: 01ea7ad56db7441c8a23a7a65848656d
+SHA1: 8d08c690958b8ded6f9fac0a90a65d9660d32a4f
+SHA256: be092a9449d1f8e165054c9b82c587d75e4ba2678fe440b9297e6c05e39a8f3a
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Melody - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.MOGUmelodySe.json
+
+Package: io.sutuplus.MationVx67Edit
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.mationvx67edit_2.0_iphoneos-arm.deb
+Size: 2021390
+MD5sum: 5a991e5b945c52547945e82d87b7ae03
+SHA1: a64ca3e9634e1bffa8cbe2ef4d91e32e2262edb2
+SHA256: 428647db532fcf05aa5bca421aed770c151a55c74bc9898b1658059d4b84ca33
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Mation - SutuPLUS简约风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.MationVx67Edit.json
+
+Package: io.sutuplus.MissThemeSe
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.missthemese_3.0_iphoneos-arm.deb
+Size: 1294026
+MD5sum: 8e5b941ce06411c65e85deea2562ebf7
+SHA1: 42d8c7e3899663710913ba38979319febc85d496
+SHA256: 4df8727c2fde617515d34d42e1b09b3a534e71af82003e689761bf07da67f916
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Miss - SutuPLUS简约风主题 V3.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.MissThemeSe.json
+
+Package: io.sutuplus.PokemonVx67Se
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.pokemonvx67se_1.1_iphoneos-arm.deb
+Size: 2633920
+MD5sum: 7d46311e2ea53a1432a6e92730671130
+SHA1: 6a8b2dae82191776a93ee8cf7a8bc76916d54fe4
+SHA256: 68115438ec8276c5b7615abdb0cd31a4e40714f6c928618f9abaf3651dcbf9d5
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Pokémon - SutuPLUS简约风主题 V1.1
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.PokemonVx67Se.json
+
+Package: io.sutuplus.PuzzleVX67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.puzzlevx67_1.0_iphoneos-arm.deb
+Size: 1397338
+MD5sum: d94a73516e98068f7c9a0f1612bb8f8a
+SHA1: f1d1295b7d8da15fddfe8927715371ee53d5a534
+SHA256: 446f5b36dc951dd6497bdb40c0a5e273ed1b38e1a754237f83881c236b082838
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Puzzle - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.PuzzleVX67.json
+
+Package: io.sutuplus.RandomChat1Se
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.randomchat1se_1.2_iphoneos-arm.deb
+Size: 993830
+MD5sum: a4f514fe0928ad881a75b9644b3ff0a3
+SHA1: 924cce85a05652a6f5be86c416515496c5e49a28
+SHA256: 8786b34997cb64b83e93cf016cecd43ddb6112f019ba9933af68ae52b4c4527b
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Random气泡一 - SutuPLUS简约风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.RandomChat1Se.json
+
+Package: io.sutuplus.RandomChat2Se
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.randomchat2se_1.2_iphoneos-arm.deb
+Size: 1019400
+MD5sum: 299ca30c345207183a45183034f8f65e
+SHA1: 231919a667a802b410b6fa07a6ac315a3bb6078f
+SHA256: a303d4680973edb9b13e7cbc8922114c53b9a456361b64795313dcd50af26ff8
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Random气泡二 - SutuPLUS简约风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.RandomChat2Se.json
+
+Package: io.sutuplus.SailarMoonSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.sailarmoonse_1.0_iphoneos-arm.deb
+Size: 42708122
+MD5sum: 82b5be886a756c097f8738f570a7cbf5
+SHA1: ab67cba5a352251f439d0216b7c195e816535fef
+SHA256: b6691c7b85f369d1698f32dffda2f2890dee3c32ce686853b512f4cc8858d12c
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: SailarMoon(美少女战士) - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.SailarMoonSe.json
+
+Package: io.sutuplus.SketchVxSe
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.sketchvxse_3.0_iphoneos-arm.deb
+Size: 2170150
+MD5sum: e084875edb3a2a8ced2a3db3fa002bd6
+SHA1: 962a2e6123cf727d728a77b2b98899085a2635ad
+SHA256: bca7d665077769157bec53d6287042c10f675a955e2f706602b1d59ab99a10ec
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Sketch - SutuPLUS简约风主题 V3.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.SketchVxSe.json
+
+Package: io.sutuplus.SsTravelDiarySe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.sstraveldiaryse_1.0_iphoneos-arm.deb
+Size: 23386632
+MD5sum: 4d190278a395b0a81b7c0747ea31ae7b
+SHA1: 9d6bc66f093237c8e4951057cf4064b570364449
+SHA256: 006ede5548493bda88f1567277a1cd2d378932fc181b2f99a559fbe80f72d470
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 喵咪旅行日记 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.SsTravelDiarySe.json
+
+Package: io.sutuplus.SweetloveYLSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.sweetloveylse_1.0_iphoneos-arm.deb
+Size: 6882300
+MD5sum: 2a085fe58424b854f8e4466020644c30
+SHA1: f5e2ae11e2fe75445027c3d5aeb2aa244905c100
+SHA256: 8c6f06b960aa99074fce606a89517e94de32b9c254a16b0d741f221a18669462
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 甜甜的尝一口你说的爱我 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.SweetloveYLSe.json
+
+Package: io.sutuplus.TalksVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.talksvx67_1.0_iphoneos-arm.deb
+Size: 1070196
+MD5sum: bda5f29d2c920c0d940282e2fef263cb
+SHA1: 2c4494f07ec9291cfc2e8012dd5ea6663e65637b
+SHA256: d2f5196d3ab3bb3759ec22c1549f1ffdbfbba7ed60045f971a59f20aeed5c669
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Talks - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.TalksVx67.json
+
+Package: io.sutuplus.TiltVx67Edit
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.tiltvx67edit_2.0_iphoneos-arm.deb
+Size: 3481490
+MD5sum: ed7575c82c10af1981cbbd60a6cb017f
+SHA1: 91876deca18b26414c219fe8e9c935cc530aca2f
+SHA256: c47fcf7abf938c2c82b03a11726f976a296b06476ff50d159404aa4083a409e1
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Tilt - SutuPLUS简约风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.TiltVx67Edit.json
+
+Package: io.sutuplus.VenomChat1Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.venomchat1se_1.0_iphoneos-arm.deb
+Size: 4033714
+MD5sum: 62bfb5c9a03542fc3beae3077c6d2629
+SHA1: 0cc84f0f02c4ae71df6e2002b1e01ae49d039d3a
+SHA256: c7be36c136198a585ac0b0cfcc277864603bbdab4a685e843f749f6b5df458fa
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Venom气泡一 - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.VenomChat1Se.json
+
+Package: io.sutuplus.VenomChat2Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.venomchat2se_1.0_iphoneos-arm.deb
+Size: 7875350
+MD5sum: c505d6cd7474e8dfb5a904ffca993dbd
+SHA1: 0df206c7c2f5d49903ed0e0eadce975bdb75f49f
+SHA256: d52be16caf6c6af63a4e9611247467646045e896b6e9dfbe8d9c79b29bde7e8e
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Venom气泡二 - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.VenomChat2Se.json
+
+Package: io.sutuplus.blacklineSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.blacklinese_1.0_iphoneos-arm.deb
+Size: 558486
+MD5sum: 0db779e55490aac0b94f57d7f0c7132b
+SHA1: 2792b1b6e0bfdcf7298e26ac4e9e7c1438d76774
+SHA256: aca49665f6e348979c882b05de4a062ca75bd8ecf194626adbaa634b83c9cfc4
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 黑线 - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.blacklineSe.json
+
+Package: io.sutuplus.darkmodetrialDarkGreyEdit
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.darkmodetrialdarkgreyedit_5.0_iphoneos-arm.deb
+Size: 1274228
+MD5sum: e121acf029ba56b6de1197bbfbdf8bc6
+SHA1: 329861d6ec0660a73727bc59f562bcfe1d1ae893
+SHA256: fe0f4af066cae8623906a5f520d218fb8107cf1f20bb3280ed6718be2a84e441
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 暗黑体验 - SutuPLUS简约风主题 V5.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.darkmodetrialDarkGreyEdit.json
+
+Package: io.sutuplus.dessertse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.dessertse_1.0_iphoneos-arm.deb
+Size: 3402272
+MD5sum: 43496b4175f4c7083d40db438c1b5635
+SHA1: 0b78761af9361c0715f220163230a2036d2a178f
+SHA256: 957c1c0dfb649ffa42216c3909389eb5930a18f381353166b818d6153083f903
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 甜点 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.dessertse.json
+
+Package: io.sutuplus.hefengse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.hefengse_1.0_iphoneos-arm.deb
+Size: 2533074
+MD5sum: c240ed54420e89e0cc9aeab4ccff83ca
+SHA1: ae20ba6dc9f61daff5f036aa177d1c43842e8634
+SHA256: 5c74388647cc15f7270a161ec39db0de6a3a43a40fcb1f8850cbe78ae787391c
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 简系和风 - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.hefengse.json
+
+Package: io.sutuplus.huibairabbit2Se
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.huibairabbit2se_1.2_iphoneos-arm.deb
+Size: 6832512
+MD5sum: 8c05efac7fdd156766917c8bbd40b3fb
+SHA1: a51035497778f56d0f89883b860c49b5cffaf443
+SHA256: 84aa93432d9e4d2852590b791aecec53501c2261891832345bb8ef2191f16362
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 灰白兔气泡二 - SutuPLUS可爱风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.huibairabbit2Se.json
+
+Package: io.sutuplus.huibairabbit3Se
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.huibairabbit3se_1.2_iphoneos-arm.deb
+Size: 7062530
+MD5sum: ae309da3ffdc337c401e0fb31762ef16
+SHA1: d5ddfaad6e508565f1234c517bd62dd9a4136bf9
+SHA256: 2a9fe574a3bb648a2e462309a424926682ebd29d5c49025d35feb86172efcaee
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 灰白兔气泡三 - SutuPLUS可爱风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.huibairabbit3Se.json
+
+Package: io.sutuplus.huibairabbitSe
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.huibairabbitse_1.2_iphoneos-arm.deb
+Size: 7035964
+MD5sum: b1c52297321c56c83900ed58053e334d
+SHA1: ded6dae80e84865fe447e0ebb791743bafd4c2f3
+SHA256: 10b9c2089c8a219f256ffa5367f49dcdfece90f96b0bf857b72fabcdf0759a76
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 灰白兔 - SutuPLUS可爱风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.huibairabbitSe.json
+
+Package: io.sutuplus.innocenceVxSe
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.innocencevxse_2.1_iphoneos-arm.deb
+Size: 1343088
+MD5sum: 79a4f9300b5010ed549f39e46aaa95d1
+SHA1: d3c18cfd7b548fb6c6081b19413b9a375ae75a0e
+SHA256: 139b7fc3ea016dfc63d5ce591e6c0c4ea4779184301d205041eea0cca5441688
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Innocence - SutuPLUS简约风主题 V2.1
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.innocenceVxSe.json
+
+Package: io.sutuplus.interstellrabbit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.interstellrabbit_1.0_iphoneos-arm.deb
+Size: 14432750
+MD5sum: 064640758e36ebdc797f192ef8da5a4e
+SHA1: 9158475cd205610b0638e752d490f0a4a98e3e13
+SHA256: 3d1c918171dab34c36a56b9a71b242e6aef560c7a97c63bb8a6b51935926ea2d
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 星际漫游兔 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.interstellrabbit.json
+
+Package: io.sutuplus.lostNewSe
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.lostnewse_2.0_iphoneos-arm.deb
+Size: 1831666
+MD5sum: 0c509a141b449b2b62997a3e2766cc2e
+SHA1: 195a1df152ff1b79a31f27996082c4ba1cd35fef
+SHA256: 9e9af9342b274ae500f24569f219177e6614d6b06941951e9aeeb85b5eae5bd9
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: LOST新气泡 - SutuPLUS简约风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.lostNewSe.json
+
+Package: io.sutuplus.minimalistSE
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.minimalistse_1.0_iphoneos-arm.deb
+Size: 1941234
+MD5sum: 8ea1c77c99a197cd918b66ad198a8a10
+SHA1: b5bf542f81468a08489b533091a629acd58e2f88
+SHA256: 8826a0ab38067e0d5ad28c61312abb2fa2d7f54237786fb91543c2535068d04f
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 极简白X - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.minimalistSE.json
+
+Package: io.sutuplus.myhappybearse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.myhappybearse_1.0_iphoneos-arm.deb
+Size: 7788946
+MD5sum: c312449e2fad22140143beda32cfffc7
+SHA1: 447f7c1a5fb1240253822063f7ee6f591ebb23de
+SHA256: 54f7dd5e3ef4c0a7f173c5c76fa26bb302e140186582bcecff472d1a174cf0d6
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 我和我的快乐小熊 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.myhappybearse.json
+
+Package: io.sutuplus.nsCatSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.nscatse_1.0_iphoneos-arm.deb
+Size: 15950958
+MD5sum: ea7c4e9075fba3889dc0ecb5a7c9e4c3
+SHA1: e585b98bd97d1f17656521668f5632dbd51aeb54
+SHA256: 91d02ff7287224204b7466ae6ebc69c4ba66242676ddc3166348532147691e97
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 喵星人 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.nsCatSe.json
+
+Package: io.sutuplus.obviousVx67Se
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.obviousvx67se_2.0_iphoneos-arm.deb
+Size: 5082176
+MD5sum: d468b028ce0fe57091dccbec507ba57e
+SHA1: 715647ca6eee072427998caa5f43a0bf54433ea6
+SHA256: 1f0e1c5ecacbb1add37e18208f37895bf32c0e93af69690b531ffab382dfda52
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 简 - SutuPLUS简约风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.obviousVx67Se.json
+
+Package: io.sutuplus.starse
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.starse_1.0_iphoneos-arm.deb
+Size: 1027118
+MD5sum: ebafe8fb1d6eb2eecc92e2ece95ce026
+SHA1: fcd8105c29e6684110cc636f45b28f0b3ea71bb2
+SHA256: c94f30e387ce44b4aac039bd44e18229c198d54bed7129b9edb3165feb5a5142
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 星屑 - SutuPLUS简约风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.starse.json
+
+Package: io.sutuplus.vinylEdit
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.vinyledit_1.2_iphoneos-arm.deb
+Size: 884820
+MD5sum: 804f56924bd5f32446bc3a2d3d19efd1
+SHA1: c37d16f6ddfc1361196940dfbe3b2ee038ce441c
+SHA256: 78289d15c3822944dbde3627be1f80e7a42aa19856280f7135b9ffc53675426f
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Vinyl - SutuPLUS简约风主题 V1.2
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.vinylEdit.json
+
+Package: io.sutuplus.whiteBearVx67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.whitebearvx67_1.0_iphoneos-arm.deb
+Size: 9575332
+MD5sum: 26fb3f6323bd823d6e97c988c4655c76
+SHA1: 99ee7f1b9fd3422df75a174a7fb618c2c4af0d92
+SHA256: 668cc893c4a23368872f47c1e2d12c058c1a6a8558778cc19630a21f8ecd3faa
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 白小熊 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.whiteBearVx67.json
+
+Package: io.sutuplus.xiaoyingVXSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.xiaoyingvxse_1.0_iphoneos-arm.deb
+Size: 27294014
+MD5sum: c5f63b43b012394777812408107855aa
+SHA1: 44de7dab395903d36448d6f049267568705c4466
+SHA256: 62918cb7d0e8215e7ce2b5edb71b5789cd5dee6d29a537eb37e7e870c2de78b3
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 小樱 - SutuPLUS可爱风主题 V1.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.xiaoyingVXSe.json
 
