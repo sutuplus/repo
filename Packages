@@ -277,22 +277,22 @@ Name: 湖蓝 - SutuPLUS简约风主题 V3.0
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.BluelakeVx67Se.json
 
 Package: io.sutuplus.ChildlikeVx67Mix
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: 苏兔
 Installed-Size: 520
 Depends: mobilesubstrate
-Filename: debs/io.sutuplus.childlikevx67mix_2.0_iphoneos-arm.deb
-Size: 3019198
-MD5sum: d30af18382a2e42ede2b18efd477c47d
-SHA1: d9dc6b882bc16a376ba412c86f462cc7433c7679
-SHA256: d830d5db5aa5ad37b3430b8feeb79dddc5e0630f34eeb4fda49af7be4428347b
+Filename: debs/io.sutuplus.childlikevx67mix_2.1_iphoneos-arm.deb
+Size: 3019348
+MD5sum: f231c44c4f73abc7db78a725aa51a185
+SHA1: 62bf53e85a6767361eae4562ee28c210077b575f
+SHA256: e76392cfcd4e1f0140c01b96fbd9145d166b5d9db67e62e9dc6ebab605af087f
 Section: WechatTheme
 Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
 Author: 公众号：苏兔（bysutu）
 Depiction: https://sutuplus.github.io/repo/new/js/description1.html
 Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
-Name: Childlike - SutuPLUS简约风主题 V2.0
+Name: Childlike - SutuPLUS简约风主题 V2.1
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.ChildlikeVx67Mix.json
 
 Package: io.sutuplus.LineThemeSe
