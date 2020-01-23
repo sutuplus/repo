@@ -770,6 +770,25 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: 星际漫游兔 - SutuPLUS可爱风主题 V1.0
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.interstellrabbit.json
 
+Package: io.sutuplus.loligirlEdit
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.loligirledit_2.0_iphoneos-arm.deb
+Size: 15872248
+MD5sum: 307c828995bd0691aac6ae6db3e91068
+SHA1: 302c091297ece51103fdb5d7c84a1657aa9a2908
+SHA256: a0783f0d6600d9c3af813df4893c648442c2b72721199f07c8866e686860e0cb
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 萝莉girl - SutuPLUS可爱风主题 V2.0
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.loligirlEdit.json
+
 Package: io.sutuplus.lostNewSe
 Version: 2.0
 Architecture: iphoneos-arm
