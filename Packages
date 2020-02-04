@@ -333,6 +333,44 @@ Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
 Name: LineX - SutuPLUS简约风主题 V1.2
 Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.LineXEdit.json
 
+Package: io.sutuplus.LinealEdit
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.linealedit_1.5_iphoneos-arm.deb
+Size: 2930472
+MD5sum: 57633a00641c52cb65ac4beb8c28f8a7
+SHA1: b45190c52e346eeb7f2faebd52842e52ab3b8b53
+SHA256: 0952674a3c94872d24f97d5fba5730c777af7e3bd8b8ab863064b0c512239243
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: Lineal - SutuPLUS简约风主题 V1.5
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.LinealEdit.json
+
+Package: io.sutuplus.LittleDevilEdit
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: debs/io.sutuplus.littledeviledit_1.5_iphoneos-arm.deb
+Size: 12770998
+MD5sum: fbd737c5a00bb2626fdb15b416d9e79f
+SHA1: 0c0a300203ddcebfd53890e9dacc95c77f8d6f4a
+SHA256: 731104fc0b002a0f5c9b728483ca84a6b6bdfc36cc7023b32e34844e710cdcb1
+Section: WechatTheme
+Description: 该直装包需配合sutuplus最新版本使用，安装完直装包后主题会自动放置在「/Library/CarbyTheme/」里。<br />主题兼容VX6.x至最新版本。完成主题的直装后，需进入VX-设置-苏兔PLUS-我的主题，选择应用此主题即可。<br />Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Depiction: https://sutuplus.github.io/repo/new/js/description1.html
+Icon: http://sutuplus.github.io/repo/new/icon/wechatthemeicon.png
+Name: 一只大魔王 - SutuPLUS可爱风主题 V1.5
+Sileodepiction: http://sutuplus.github.io/repo/new/js/io.sutuplus.LittleDevilEdit.json
+
 Package: io.sutuplus.MOGUmelodySe
 Version: 1.0
 Architecture: iphoneos-arm
