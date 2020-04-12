@@ -79,16 +79,16 @@ Author: Carby(公众号:苏兔)
 Name: 修复联网补丁
 
 Package: io.github.sutuplus.release
-Version: 2.8.6
+Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: Carby
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: debs/io.github.sutuplus.release_2.8.6_iphoneos-arm.deb
-Size: 359768
-MD5sum: 2f50fa46b632309a79e7e4d5d8c92680
-SHA1: 0b85a140cf23db17a522c6228d56b61d4fe02cfd
-SHA256: 4dfdd7bdb7fa431e45f595f1d138f91f2ac8453a509cf70cf9e4bbe856f013c8
+Filename: debs/io.github.sutuplus.release_3.0.0_iphoneos-arm.deb
+Size: 367352
+MD5sum: 35508a7c049b823e8d90afab465736e5
+SHA1: a77bebf49ca1917d25f68b7a9c46c54d1dece235
+SHA256: ccb52e42b456183a8a11d006f0fa130ed1ae0403299cceb362d258366e6f9cc5
 Section: Tweaks
 Description: 一款VX美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Author: Carby(公众号:苏兔)
