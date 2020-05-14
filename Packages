@@ -15,3 +15,20 @@ Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
 Depiction: http://apt.sutuplu.com
 Name: 本源已迁移至apt.sutuplus.com
 
+Package: io.github.repo.move
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Installed-Size: 1
+Depends: mobilesubstrate
+Filename: debs/io.github.repo.move_1.1_iphoneos-arm.deb
+Size: 1022
+MD5sum: 988edf90b46c37c0478fff77e481cc5a
+SHA1: d3ed84ebee97d291e1440c8467897e5c51ebf132
+SHA256: 0bfe7a02dd522fd1aeb890cb87632317b587fe843c59bf433d82d86ab100bb20
+Section: 其他
+Description: 请勿安装，源已迁移
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com
+Name: 本源已迁移至apt.sutuplus.com
+
